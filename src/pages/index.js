@@ -2,6 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
+import logo from '../components/logo.png'
 
 import Bio from '../components/Bio'
 import { rhythm } from '../utils/typography'
@@ -13,7 +14,9 @@ class BlogIndex extends React.Component {
 
     return (
       <div>
-        <Helmet title={siteTitle} />
+        <Helmet title={siteTitle}>
+          <link rel="icon" type="image/png" href={logo} sizes="16x16" />
+        </Helmet> />
         <Bio />
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug

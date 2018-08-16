@@ -1631,13 +1631,13 @@
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "/gatsby-starter-blog",
+      "pathPrefix": "/health-writings",
       "buildTime": "2018-08-16T19:01:02.349Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "27b776ca93a854b0a67b2005c1bf7fee",
+        "contentDigest": "3515ebb2a2c6dbf5dfcce63b1127b148",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1965,7 +1965,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1e21f560f6cc4228fe7cd3e5b5552e11",
+        "contentDigest": "de2160d93a5414e82cfac26c646211b5",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }

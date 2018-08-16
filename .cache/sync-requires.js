@@ -15,7 +15,6 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\layout-index.json"),
-  "new-post.json": require("C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\new-post.json"),
   "hi-folks.json": require("C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\hi-folks.json"),
   "my-second-post.json": require("C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\my-second-post.json"),
   "hello-world.json": require("C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\hello-world.json"),

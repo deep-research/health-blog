@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "00f67c44f4adb7f1c50c9ccdfcf0c9d2",
+        "contentDigest": "58c6446230d712c4ce5d0943825b5af8",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1634,12 +1634,12 @@
       "host": "localhost",
       "pathPrefix": "/gatsby-starter-blog",
       "polyfill": true,
-      "buildTime": "2018-08-16T17:04:17.751Z",
+      "buildTime": "2018-08-16T17:17:35.708Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4c7065a8a9a8a6e240652856f69a7cc5",
+        "contentDigest": "2f3059964dc27c5fea4ebdd5cb74650a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1649,7 +1649,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "de2583a525c0502668f1061fb816d9a6",
+        "contentDigest": "49d779721fee7703b61ca074d3bb912d",
         "type": "Directory",
         "description": "Directory \"src\\pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1660,9 +1660,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-08-16T17:01:50.379Z",
-      "accessTime": "2018-08-16T17:01:50.379Z",
-      "changeTime": "2018-08-16T17:01:50.379Z",
+      "modifiedTime": "2018-08-16T17:05:15.755Z",
+      "accessTime": "2018-08-16T17:05:15.755Z",
+      "changeTime": "2018-08-16T17:05:15.755Z",
       "birthTime": "2018-08-16T15:39:35.916Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src",
@@ -1677,13 +1677,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 11258999069867612,
-      "atimeMs": 1534438910378.6787,
-      "mtimeMs": 1534438910378.6787,
-      "ctimeMs": 1534438910378.6787,
+      "atimeMs": 1534439115754.907,
+      "mtimeMs": 1534439115754.907,
+      "ctimeMs": 1534439115754.907,
       "birthtimeMs": 1534433975915.5337,
-      "atime": "2018-08-16T17:01:50.379Z",
-      "mtime": "2018-08-16T17:01:50.379Z",
-      "ctime": "2018-08-16T17:01:50.379Z",
+      "atime": "2018-08-16T17:05:15.755Z",
+      "mtime": "2018-08-16T17:05:15.755Z",
+      "ctime": "2018-08-16T17:05:15.755Z",
       "birthtime": "2018-08-16T15:39:35.916Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/hello-world absPath of file": {
@@ -2166,38 +2166,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /new-post/": {
-      "layout": "index",
-      "jsonName": "new-post.json",
-      "internalComponentName": "ComponentNewPost",
-      "path": "/new-post/",
-      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/new-post/",
-        "previous": {
-          "fields": {
-            "slug": "/hi-folks/"
-          },
-          "frontmatter": {
-            "title": "New Beginnings"
-          }
-        },
-        "next": null
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/templates/blog-post.js",
-      "id": "SitePage /new-post/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1fe480e7c9805e5b6e5bc2fed72ccd6e",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /hi-folks/": {
       "layout": "index",
       "jsonName": "hi-folks.json",
@@ -2225,7 +2193,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "06cbd2b6e9cac11da25b49ca8b621a50",
+        "contentDigest": "a595ddb8bb42c5cc976113d1612a1da4",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2264,7 +2232,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7abae7c3b34bcf40f9d6aafd2dc04ba4",
+        "contentDigest": "7655eaabc228f01131e71916f3221803",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2296,7 +2264,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a07f7ee2562f204d07f164ec53813acb",
+        "contentDigest": "9fae3f460c0b0b34efc6a5aa8d352e3c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2317,7 +2285,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "96d8f92a5b855e3fb81001d6563bb0f5",
+        "contentDigest": "6d624a2daa8c62070de6cb9b1c590bab",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2338,7 +2306,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8716c80fcb577dbb0a38c988ccd06ca1",
+        "contentDigest": "a4fb953830a55c5c18e3c4ec9a714b63",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2359,7 +2327,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "35cb532594394344696ede933d73fdf7",
+        "contentDigest": "c03de89de19a3fc619c52d9dfacdaac2",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }

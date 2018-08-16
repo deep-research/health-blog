@@ -10,7 +10,6 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\layout-index.json"),
-  "new-post.json": require("gatsby-module-loader?name=path---new-post!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\new-post.json"),
   "hi-folks.json": require("gatsby-module-loader?name=path---hi-folks!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\hi-folks.json"),
   "my-second-post.json": require("gatsby-module-loader?name=path---my-second-post!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\my-second-post.json"),
   "hello-world.json": require("gatsby-module-loader?name=path---hello-world!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\hello-world.json"),

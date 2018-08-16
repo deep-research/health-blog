@@ -5,7 +5,7 @@ module.exports = {
     description: 'healthwritings.com: A blog with practical ideas for improving your health!',
     siteUrl: 'http://healthwritings.com/',
   },
-  pathPrefix: '/health-writings',
+  // pathPrefix: '/health-writings',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,

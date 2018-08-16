@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "58fc3768ecc8c0f4afac5f0fb33661c4",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
@@ -311,7 +321,7 @@
               "backgroundColor": "white",
               "linkImagesToOriginal": true,
               "showCaptions": false,
-              "pathPrefix": "/health-writings"
+              "pathPrefix": ""
             },
             "nodeAPIs": [],
             "browserAPIs": [],
@@ -519,7 +529,7 @@
         "backgroundColor": "white",
         "linkImagesToOriginal": true,
         "showCaptions": false,
-        "pathPrefix": "/health-writings"
+        "pathPrefix": ""
       },
       "nodeAPIs": [],
       "browserAPIs": [],
@@ -1401,7 +1411,7 @@
       "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "89bd11af095ee67693ccfc89abf7d588",
+      "version": "d8ecc2d69cb03848fd1ecd42e3ebc57d",
       "pluginOptions": {
         "plugins": []
       },
@@ -1529,7 +1539,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "575c9ade499108b1244db16d4ac899d4",
+        "contentDigest": "306b9b1ee937e69addb8c541e8252862",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1620,14 +1630,16 @@
         "description": "healthwritings.com: A blog with practical ideas for improving your health!",
         "siteUrl": "http://healthwritings.com/"
       },
-      "pathPrefix": "/health-writings",
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-16T19:25:38.117Z",
+      "buildTime": "2018-08-16T19:54:32.845Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "860ff66524394e3388748b565e338ce1",
+        "contentDigest": "0b2cebe07ffcb4195db24483943ad7ff",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1764,7 +1776,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4900cd89b84fc5aa3e205aac2bd90b82",
+        "contentDigest": "1394ec8c428b2b7950999000a4f6721c",
         "mediaType": "application/javascript",
         "type": "File",
         "description": "File \"src\\pages\\index.js\"",
@@ -1774,11 +1786,11 @@
       "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/index.js",
       "relativePath": "index.js",
       "extension": "js",
-      "size": 1685,
-      "prettySize": "1.69 kB",
-      "modifiedTime": "2018-08-16T19:19:19.370Z",
+      "size": 1682,
+      "prettySize": "1.68 kB",
+      "modifiedTime": "2018-08-16T19:43:25.809Z",
       "accessTime": "2018-08-16T15:39:35.931Z",
-      "changeTime": "2018-08-16T19:19:19.370Z",
+      "changeTime": "2018-08-16T19:43:25.809Z",
       "birthTime": "2018-08-16T15:39:35.931Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
@@ -1794,12 +1806,12 @@
       "rdev": 0,
       "ino": 3659174698679907,
       "atimeMs": 1534433975931.1802,
-      "mtimeMs": 1534447159370.2737,
-      "ctimeMs": 1534447159370.2737,
+      "mtimeMs": 1534448605809.1477,
+      "ctimeMs": 1534448605809.1477,
       "birthtimeMs": 1534433975931.1802,
       "atime": "2018-08-16T15:39:35.931Z",
-      "mtime": "2018-08-16T19:19:19.370Z",
-      "ctime": "2018-08-16T19:19:19.370Z",
+      "mtime": "2018-08-16T19:43:25.809Z",
+      "ctime": "2018-08-16T19:43:25.809Z",
       "birthtime": "2018-08-16T15:39:35.931Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file": {
@@ -1873,27 +1885,6 @@
         "slug": "/heart-health/"
       }
     },
-    "SitePage /offline-plugin-app-shell-fallback/": {
-      "layout": "index",
-      "jsonName": "offline-plugin-app-shell-fallback.json",
-      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
-      "path": "/offline-plugin-app-shell-fallback/",
-      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-offline/app-shell.js",
-      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
-      "pluginCreatorId": "Plugin gatsby-plugin-offline",
-      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-offline/app-shell.js",
-      "id": "SitePage /offline-plugin-app-shell-fallback/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "e8abc50173395258ba370ce59aa4a0ca",
-        "description": "Plugin gatsby-plugin-offline",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /heart-health/": {
       "layout": "index",
       "jsonName": "heart-health.json",
@@ -1914,7 +1905,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0e90f8b7de15d07a6f71ba563203a827",
+        "contentDigest": "f463d01b66d35e7b6258967c90e44a67",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1935,7 +1926,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d71eb75cfbb64379dfebec43f62769df",
+        "contentDigest": "9f567992340a81801efa4463911ecd42",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1956,7 +1947,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2990bd00edcc933bd76bb044bd16e03c",
+        "contentDigest": "a3f71c4d168d899bb8278502ac00baa1",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1977,7 +1968,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c27fdbe56fceb51817754b3b3b9c1a23",
+        "contentDigest": "49de4efcba73bf5807718bf20752b71c",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -1985,7 +1976,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "b542161f7f0165a9e45d0a669d14ebd9"
+    "PLUGINS_HASH": "103bd8648a15b1487b7e9d54d73c7c3e"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -2000,6 +1991,9 @@
     "connections": {
       "MarkdownRemark": [
         "/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
       ]
     }
   }

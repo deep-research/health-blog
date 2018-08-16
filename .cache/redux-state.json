@@ -1625,21 +1625,19 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Starter Blog",
-        "author": "Kyle Mathews",
-        "description": "A starter blog demonstrating what Gatsby can do.",
-        "siteUrl": "https://gatsbyjs.github.io/gatsby-starter-blog/"
+        "title": "Health Writings Blog",
+        "description": "healthwritings.com: A blog with practical ideas for improving your health!",
+        "siteUrl": "http://healthwritings.com/"
       },
       "port": "8000",
       "host": "localhost",
       "pathPrefix": "/gatsby-starter-blog",
-      "polyfill": true,
       "buildTime": "2018-08-16T19:01:02.349Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "71ca2a93a6c7bf8920317781ad05d728",
+        "contentDigest": "27b776ca93a854b0a67b2005c1bf7fee",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1921,9 +1919,9 @@
       "extension": "md",
       "size": 902,
       "prettySize": "902 B",
-      "modifiedTime": "2018-08-16T19:04:08.433Z",
+      "modifiedTime": "2018-08-16T19:06:49.374Z",
       "accessTime": "2018-08-16T15:39:35.916Z",
-      "changeTime": "2018-08-16T19:04:08.433Z",
+      "changeTime": "2018-08-16T19:06:49.374Z",
       "birthTime": "2018-08-16T15:39:35.916Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health",
@@ -1939,13 +1937,38 @@
       "rdev": 0,
       "ino": 1407374884994655,
       "atimeMs": 1534433975915.5337,
-      "mtimeMs": 1534446248433.09,
-      "ctimeMs": 1534446248433.09,
+      "mtimeMs": 1534446409373.528,
+      "ctimeMs": 1534446409373.528,
       "birthtimeMs": 1534433975915.5337,
       "atime": "2018-08-16T15:39:35.916Z",
-      "mtime": "2018-08-16T19:04:08.433Z",
-      "ctime": "2018-08-16T19:04:08.433Z",
+      "mtime": "2018-08-16T19:06:49.374Z",
+      "ctime": "2018-08-16T19:06:49.374Z",
       "birthtime": "2018-08-16T15:39:35.916Z"
+    },
+    "SitePage /heart-health/": {
+      "layout": "index",
+      "jsonName": "heart-health.json",
+      "internalComponentName": "ComponentHeartHealth",
+      "path": "/heart-health/",
+      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/heart-health/",
+        "previous": null,
+        "next": null
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/templates/blog-post.js",
+      "id": "SitePage /heart-health/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e92689688e69332b4675718834464239",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark",
@@ -1971,31 +1994,6 @@
       "fileAbsolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md",
       "fields": {
         "slug": "/heart-health/"
-      }
-    },
-    "SitePage /heart-health/": {
-      "layout": "index",
-      "jsonName": "heart-health.json",
-      "internalComponentName": "ComponentHeartHealth",
-      "path": "/heart-health/",
-      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/heart-health/",
-        "previous": null,
-        "next": null
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/templates/blog-post.js",
-      "id": "SitePage /heart-health/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "644535e2bf4d72ddbfaef0227dc9de5a",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
       }
     }
   },

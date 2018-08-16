@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{395:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Health Writings Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Losing Weight Limit your amount of bread you eat each day. Don’t eat anything after 5 PM. Water retention could contribute to weight gain…",fields:{slug:"/heart-health/"},frontmatter:{date:"16 August, 2018",title:"Heart Health"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-d11df2c20937ac948b4c.js.map

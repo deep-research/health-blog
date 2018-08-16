@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/app-15493bd07a40a4894171.js","b2c455e7b552b2f6fcde480f4dcb0994"],["/app-66416739d1e6bcda719c.js","900ae4704d7f6a5e184852a58b6027ca"],["/commons-0573d3c69a6704dd859d.js","0e9ead34b63ecd4564d46dc9fdcb83be"],["/index.html","b859db725688d2c9b3f83f1d77817ce1"],["/offline-plugin-app-shell-fallback/index.html","13ed2f6bd25415a5f812afecc027e830"]];
+var precacheConfig = [["/health-writings/app-15493bd07a40a4894171.js","b2c455e7b552b2f6fcde480f4dcb0994"],["/health-writings/app-66416739d1e6bcda719c.js","900ae4704d7f6a5e184852a58b6027ca"],["/health-writings/app-9e79bf081a01e2589c04.js","b3c1df58f8337e2c54593d5a180ace31"],["/health-writings/commons-0573d3c69a6704dd859d.js","0b72106166dd6f58ba4561ce71763924"],["/health-writings/index.html","de734c59d4a7f2784ebae9113bf94295"],["/health-writings/offline-plugin-app-shell-fallback/index.html","4126f3b32744755e2dd2d28ac1ac73bd"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 

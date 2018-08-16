@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Health Writings Blog',
+    author: '',
     description: 'healthwritings.com: A blog with practical ideas for improving your health!',
     siteUrl: 'http://healthwritings.com/',
   },

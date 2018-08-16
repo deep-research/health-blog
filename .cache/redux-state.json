@@ -1626,6 +1626,7 @@
     "Site": {
       "siteMetadata": {
         "title": "Health Writings Blog",
+        "author": "",
         "description": "healthwritings.com: A blog with practical ideas for improving your health!",
         "siteUrl": "http://healthwritings.com/"
       },
@@ -1637,7 +1638,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3515ebb2a2c6dbf5dfcce63b1127b148",
+        "contentDigest": "fe6ebd69e8a856ace38f25f1bd3f4228",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1965,7 +1966,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "de2160d93a5414e82cfac26c646211b5",
+        "contentDigest": "bd48d5ea519baba1b7c85230d5a95f96",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }

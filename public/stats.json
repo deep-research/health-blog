@@ -25,12 +25,12 @@
       "component---src-layouts-index-js-920cc4d73c527b46db87.js.map"
     ],
     "path---hi-folks": [
-      "path---hi-folks-5fc6040f540c99d438ee.js",
-      "path---hi-folks-5fc6040f540c99d438ee.js.map"
+      "path---hi-folks-d54c4176f72c1c5bc6fe.js",
+      "path---hi-folks-d54c4176f72c1c5bc6fe.js.map"
     ],
     "path---index": [
-      "path---index-fb7920b02446c87b3d44.js",
-      "path---index-fb7920b02446c87b3d44.js.map"
+      "path---index-c4778ffcdd09d522cd1a.js",
+      "path---index-c4778ffcdd09d522cd1a.js.map"
     ],
     "path---hello-world": [
       "path---hello-world-f3daf2c437e0dab7293c.js",
@@ -50,14 +50,18 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---new-post": [
+      "path---new-post-0781cc49d8d2c11713c0.js",
+      "path---new-post-0781cc49d8d2c11713c0.js.map"
+    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-66416739d1e6bcda719c.js",
+      "app-15493bd07a40a4894171.js",
       "build-js-styles.css",
-      "app-66416739d1e6bcda719c.js.map",
+      "app-15493bd07a40a4894171.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [

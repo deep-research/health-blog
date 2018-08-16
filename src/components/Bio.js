@@ -27,7 +27,7 @@ class Bio extends React.Component {
           }}
         />
         <p style={{fontSize: "1.5rem"}}>
-          <i>A blog with practical ideas for improving your health!</i>
+          <i><b>healthwritings.com</b>: A blog with practical ideas for improving your health!</i>
         </p>
       </div>
     )

@@ -10,13 +10,12 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\layout-index.json"),
-  "hi-folks.json": require("gatsby-module-loader?name=path---hi-folks!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\hi-folks.json"),
-  "my-second-post.json": require("gatsby-module-loader?name=path---my-second-post!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\my-second-post.json"),
   "hello-world.json": require("gatsby-module-loader?name=path---hello-world!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\hello-world.json"),
   "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\dev-404-page.json"),
   "404.json": require("gatsby-module-loader?name=path---404!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\404.json"),
   "index.json": require("gatsby-module-loader?name=path---index!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\index.json"),
-  "404-html.json": require("gatsby-module-loader?name=path---404-html!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\404-html.json")
+  "404-html.json": require("gatsby-module-loader?name=path---404-html!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\404-html.json"),
+  "heart-health.json": require("gatsby-module-loader?name=path---heart-health!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\heart-health.json")
 }
 
 exports.layouts = {

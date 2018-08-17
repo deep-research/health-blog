@@ -1,0 +1,2 @@
+webpackJsonp([0x6913aa820d83],{397:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Health Writings Blog",author:""}},markdownRemark:{id:"C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article/index.md absPath of file >>> MarkdownRemark",html:"<h2>Heading</h2>\n<p>This is a new article.</p>",frontmatter:{title:"New Article",date:"August 16, 2018"}}},pathContext:{slug:"/new-article/",previous:null,next:{fields:{slug:"/heart-health/"},frontmatter:{title:"Heart Health"}}}}}});
+//# sourceMappingURL=path---new-article-fd826893804a223fcea4.js.map

@@ -1,0 +1,2162 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "path": "/dev-404-page/",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "63a89d63b9fc0ab2db270dd99621db2a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "865cc1f9cb8e81b8f73868c9f88f0be4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "640a29ab66daa6ab162f4e1a079ec939",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0df7c3751345170403b256ad1f188a78",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f2a694552b2221e88c7411c50cb5e269",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.39",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog/src/pages",
+        "name": "pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.39",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "24b6344128903e04e7ce5721707a9e9b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.44",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "1.5.67",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 590,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "showCaptions": false,
+              "pathPrefix": ""
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-responsive-iframe",
+            "id": "Plugin gatsby-remark-responsive-iframe",
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "1.4.20",
+            "pluginOptions": {
+              "plugins": [],
+              "wrapperStyle": "margin-bottom: 1.0725rem"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-responsive-iframe"
+          },
+          {
+            "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-prismjs",
+            "id": "Plugin gatsby-remark-prismjs",
+            "name": "gatsby-remark-prismjs",
+            "version": "1.2.24",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-copy-linked-files",
+            "id": "Plugin gatsby-remark-copy-linked-files",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "1.5.37",
+            "pluginOptions": {
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-copy-linked-files"
+          },
+          {
+            "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-smartypants",
+            "id": "Plugin gatsby-remark-smartypants",
+            "name": "gatsby-remark-smartypants",
+            "version": "1.4.12",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-smartypants"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.44",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "68c8c31fcf95aeb1cb61f4a8b3f1b0d3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "1.5.67",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 590,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "showCaptions": false,
+        "pathPrefix": ""
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "1.5.67",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.48"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "eb0fc1709b906bdfa995e5c85aa53fad",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-responsive-iframe": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-responsive-iframe",
+      "id": "Plugin gatsby-remark-responsive-iframe",
+      "name": "gatsby-remark-responsive-iframe",
+      "version": "1.4.20",
+      "pluginOptions": {
+        "plugins": [],
+        "wrapperStyle": "margin-bottom: 1.0725rem"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-responsive-iframe",
+      "packageJson": {
+        "name": "gatsby-remark-responsive-iframe",
+        "description": "Make iframes in Markdown processed by Remark responsive",
+        "version": "1.4.20",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "64672f28daac5dc47bfe625b95ad3e1c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-prismjs": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-prismjs",
+      "id": "Plugin gatsby-remark-prismjs",
+      "name": "gatsby-remark-prismjs",
+      "version": "1.2.24",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "1.2.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "0.0.2"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.12.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.3"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b2c973cc43427c85ecf8547f785834d6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-copy-linked-files": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-copy-linked-files",
+      "id": "Plugin gatsby-remark-copy-linked-files",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "1.5.37",
+      "pluginOptions": {
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "1.5.37",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6c9551bcb93ee40b191d4f9c254288fb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-smartypants": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-smartypants",
+      "id": "Plugin gatsby-remark-smartypants",
+      "name": "gatsby-remark-smartypants",
+      "version": "1.4.12",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-remark-smartypants",
+      "packageJson": {
+        "name": "gatsby-remark-smartypants",
+        "description": "Use retext-smartypants to auto-enhance typography of markdown",
+        "version": "1.4.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "smartypants"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "retext",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-smartypants",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "251225fcdf901871097a6dbf405b1239",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.27",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.27",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f62dc87a85a36a8ea1db4a5710d8e264",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.48",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.48",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "5.0.1"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bf2388dba89b65efb7d903957338ff0e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.31",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.31",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a5037e33790014ab9d8758b68a0dbbf7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-feed": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-feed",
+      "id": "Plugin gatsby-plugin-feed",
+      "name": "gatsby-plugin-feed",
+      "version": "1.3.25",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-feed",
+      "packageJson": {
+        "name": "gatsby-plugin-feed",
+        "description": "Creates an RSS feed for your Gatsby site.",
+        "version": "1.3.25",
+        "main": "index.js",
+        "keywords": [
+          "atom",
+          "feed",
+          "gatsby",
+          "gatsby-plugin",
+          "rss"
+        ],
+        "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "lodash.merge",
+            "version": "^4.6.0"
+          },
+          {
+            "name": "mkdirp",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "pify",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "rss",
+            "version": "^1.2.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "cfd9c824d045d27fa41ebafbe9ff3a3c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-offline": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-offline",
+      "id": "Plugin gatsby-plugin-offline",
+      "name": "gatsby-plugin-offline",
+      "version": "1.0.18",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "1.0.18",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "sw-precache",
+            "version": "^5.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ba190e7184f68378950da179dcdf4008",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "da1a05f3e25c687c0382733666785cb4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-typography": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-typography",
+      "id": "Plugin gatsby-plugin-typography",
+      "name": "gatsby-plugin-typography",
+      "version": "1.7.19",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "src/utils/typography"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "1.7.19",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "dc79d4874f05d3cadf32e749c548da31",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "d8ecc2d69cb03848fd1ecd42e3ebc57d",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onCreateNode"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog",
+      "packageJson": {
+        "name": "gatsby-starter-blog",
+        "description": "Starter Gatsby Blog",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.39"
+          },
+          {
+            "name": "gatsby-plugin-feed",
+            "version": "^1.3.20"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.29"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^1.0.15"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.42"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^1.7.18"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^1.5.31"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.61"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^1.2.24"
+          },
+          {
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "^1.4.18"
+          },
+          {
+            "name": "gatsby-remark-smartypants",
+            "version": "^1.4.12"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.31"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.40"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.22"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.5"
+          },
+          {
+            "name": "typeface-merriweather",
+            "version": "0.0.43"
+          },
+          {
+            "name": "typeface-montserrat",
+            "version": "0.0.43"
+          },
+          {
+            "name": "typography-theme-wordpress-2016",
+            "version": "^0.15.10"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "eslint",
+            "version": "^4.19.1"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.7.0"
+          },
+          {
+            "name": "gh-pages",
+            "version": "^1.2.0"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.12.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "306b9b1ee937e69addb8c541e8252862",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-page-creator": {
+      "resolve": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-page-creator",
+      "id": "Plugin gatsby-plugin-page-creator",
+      "name": "gatsby-plugin-page-creator",
+      "version": "1.0.1",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "1.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c3863398595fc93c3c540c3bf8952c8d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Health Writings Blog",
+        "author": "",
+        "description": "healthwritings.com: A blog with practical ideas for improving your health!",
+        "siteUrl": "http://healthwritings.com/"
+      },
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-08-17T19:03:09.307Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f6dd967d7934717d9c374c2f8e8e7b95",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages absPath of file": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "02536c049894e2788df5a4edad42e6ee",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-08-17T19:03:01.251Z",
+      "accessTime": "2018-08-17T19:03:01.251Z",
+      "changeTime": "2018-08-17T19:03:01.251Z",
+      "birthTime": "2018-08-17T19:03:01.178Z",
+      "root": "C:/",
+      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 1747574096,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 141018963332041310,
+      "atimeMs": 1534532581251.0134,
+      "mtimeMs": 1534532581251.0134,
+      "ctimeMs": 1534532581251.0134,
+      "birthtimeMs": 1534532581177.9321,
+      "atime": "2018-08-17T19:03:01.251Z",
+      "mtime": "2018-08-17T19:03:01.251Z",
+      "ctime": "2018-08-17T19:03:01.251Z",
+      "birthtime": "2018-08-17T19:03:01.178Z"
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "874cc7323c240c0083f35cb6f606bac0",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\\heart-health\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health",
+      "relativePath": "heart-health",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-08-17T19:03:01.245Z",
+      "accessTime": "2018-08-17T19:03:01.245Z",
+      "changeTime": "2018-08-17T19:03:01.245Z",
+      "birthTime": "2018-08-17T19:03:01.220Z",
+      "root": "C:/",
+      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
+      "base": "heart-health",
+      "ext": "",
+      "name": "heart-health",
+      "relativeDirectory": "",
+      "dev": 1747574096,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4785074604274765,
+      "atimeMs": 1534532581245.0647,
+      "mtimeMs": 1534532581245.0647,
+      "ctimeMs": 1534532581245.0647,
+      "birthtimeMs": 1534532581219.938,
+      "atime": "2018-08-17T19:03:01.245Z",
+      "mtime": "2018-08-17T19:03:01.245Z",
+      "ctime": "2018-08-17T19:03:01.245Z",
+      "birthtime": "2018-08-17T19:03:01.220Z"
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article absPath of file": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "37fb8b263475cd899fa8d6c5b0274706",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\\new-article\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article",
+      "relativePath": "new-article",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-08-17T19:03:01.254Z",
+      "accessTime": "2018-08-17T19:03:01.254Z",
+      "changeTime": "2018-08-17T19:03:01.254Z",
+      "birthTime": "2018-08-17T19:03:01.251Z",
+      "root": "C:/",
+      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
+      "base": "new-article",
+      "ext": "",
+      "name": "new-article",
+      "relativeDirectory": "",
+      "dev": 1747574096,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 11258999068732744,
+      "atimeMs": 1534532581254.0046,
+      "mtimeMs": 1534532581254.0046,
+      "ctimeMs": 1534532581254.0046,
+      "birthtimeMs": 1534532581251.0134,
+      "atime": "2018-08-17T19:03:01.254Z",
+      "mtime": "2018-08-17T19:03:01.254Z",
+      "ctime": "2018-08-17T19:03:01.254Z",
+      "birthtime": "2018-08-17T19:03:01.251Z"
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js absPath of file": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d50d9a7e3f04ddcc5ff8d43b6effe79",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 198,
+      "prettySize": "198 B",
+      "modifiedTime": "2018-08-16T15:39:35.916Z",
+      "accessTime": "2018-08-17T19:03:01.195Z",
+      "changeTime": "2018-08-17T18:48:26.538Z",
+      "birthTime": "2018-08-17T19:03:01.195Z",
+      "root": "C:/",
+      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 1747574096,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5066549580985054,
+      "atimeMs": 1534532581194.9836,
+      "mtimeMs": 1534433975915.5337,
+      "ctimeMs": 1534531706537.9612,
+      "birthtimeMs": 1534532581194.9836,
+      "atime": "2018-08-17T19:03:01.195Z",
+      "mtime": "2018-08-16T15:39:35.916Z",
+      "ctime": "2018-08-17T18:48:26.538Z",
+      "birthtime": "2018-08-17T19:03:01.195Z"
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/index.js absPath of file": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1394ec8c428b2b7950999000a4f6721c",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 1682,
+      "prettySize": "1.68 kB",
+      "modifiedTime": "2018-08-16T19:43:25.809Z",
+      "accessTime": "2018-08-17T19:03:01.218Z",
+      "changeTime": "2018-08-17T18:48:26.541Z",
+      "birthTime": "2018-08-17T19:03:01.218Z",
+      "root": "C:/",
+      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 1747574096,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5910974511117093,
+      "atimeMs": 1534532581217.9468,
+      "mtimeMs": 1534448605809.1477,
+      "ctimeMs": 1534531706540.9546,
+      "birthtimeMs": 1534532581217.9468,
+      "atime": "2018-08-17T19:03:01.218Z",
+      "mtime": "2018-08-16T19:43:25.809Z",
+      "ctime": "2018-08-17T18:48:26.541Z",
+      "birthtime": "2018-08-17T19:03:01.218Z"
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
+      "children": [
+        "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7ec3c09c5fefb9e8d96b4ef755c1ce30",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src\\pages\\heart-health\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md",
+      "relativePath": "heart-health/index.md",
+      "extension": "md",
+      "size": 902,
+      "prettySize": "902 B",
+      "modifiedTime": "2018-08-16T19:06:49.374Z",
+      "accessTime": "2018-08-17T19:03:01.245Z",
+      "changeTime": "2018-08-17T18:48:18.053Z",
+      "birthTime": "2018-08-17T19:03:01.245Z",
+      "root": "C:/",
+      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "heart-health",
+      "dev": 1747574096,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3940649674142833,
+      "atimeMs": 1534532581245.0647,
+      "mtimeMs": 1534446409373.528,
+      "ctimeMs": 1534531698052.9385,
+      "birthtimeMs": 1534532581245.0647,
+      "atime": "2018-08-17T19:03:01.245Z",
+      "mtime": "2018-08-16T19:06:49.374Z",
+      "ctime": "2018-08-17T18:48:18.053Z",
+      "birthtime": "2018-08-17T19:03:01.245Z"
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article/index.md absPath of file": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article/index.md absPath of file",
+      "children": [
+        "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "39f7c11939062b1e31733406b3724888",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src\\pages\\new-article\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article/index.md",
+      "relativePath": "new-article/index.md",
+      "extension": "md",
+      "size": 95,
+      "prettySize": "95 B",
+      "modifiedTime": "2018-08-17T18:50:48.978Z",
+      "accessTime": "2018-08-17T19:03:01.253Z",
+      "changeTime": "2018-08-17T18:50:48.978Z",
+      "birthTime": "2018-08-17T19:03:01.253Z",
+      "root": "C:/",
+      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "new-article",
+      "dev": 1747574096,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2251799815106952,
+      "atimeMs": 1534532581253.0127,
+      "mtimeMs": 1534531848978.1655,
+      "ctimeMs": 1534531848978.1655,
+      "birthtimeMs": 1534532581253.0127,
+      "atime": "2018-08-17T19:03:01.253Z",
+      "mtime": "2018-08-17T18:50:48.978Z",
+      "ctime": "2018-08-17T18:50:48.978Z",
+      "birthtime": "2018-08-17T19:03:01.253Z"
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Heart Health\ndate: \"2018-08-16T22:14:04.000Z\"\n---\n\n## Losing Weight\n\n* Limit your amount of bread you eat each day.\n* Don't eat anything after 5 PM.\n* Water retention could contribute to weight gain. Diuretics can help with this problem.\n* Look up your Body Mass Index (BMI) to find out what your optimal weight is.\n\n## Exercise\n\n* The Yellow Emperor is the mythological founder of Ancient China. He is credited with many inventions including the founding of cardiology. According to Chinese tradition, a person was considered healthy in they could walk 10 minutes at a speed of 6 kilometers per hour (or 3.73 miles per hour).\n* Your doctors can send you to a stress test to check your heart function. The test can estimate you can estimate your highest capacity speed. During the test, you move with a speed that is 90% of your capacity. The speed will change depending upon your capacity.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "b5922c673f1dd493ce812aecbd380899",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Heart Health",
+        "date": "2018-08-16T22:14:04.000Z",
+        "_PARENT": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
+        "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Losing Weight\n\n* Limit your amount of bread you eat each day.\n* Don't eat anything after 5 PM.\n* Water retention could contribute to weight gain. Diuretics can help with this problem.\n* Look up your Body Mass Index (BMI) to find out what your optimal weight is.\n\n## Exercise\n\n* The Yellow Emperor is the mythological founder of Ancient China. He is credited with many inventions including the founding of cardiology. According to Chinese tradition, a person was considered healthy in they could walk 10 minutes at a speed of 6 kilometers per hour (or 3.73 miles per hour).\n* Your doctors can send you to a stress test to check your heart function. The test can estimate you can estimate your highest capacity speed. During the test, you move with a speed that is 90% of your capacity. The speed will change depending upon your capacity.\n",
+      "fileAbsolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md",
+      "fields": {
+        "slug": "/heart-health/"
+      }
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: New Article\ndate: \"2018-08-16T22:14:04.000Z\"\n---\n\n## Heading\n\nThis is a new article.",
+        "type": "MarkdownRemark",
+        "contentDigest": "3a1ccc57c4290e908196ed620c7dcfd3",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "New Article",
+        "date": "2018-08-16T22:14:04.000Z",
+        "_PARENT": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article/index.md absPath of file",
+        "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Heading\n\nThis is a new article.",
+      "fileAbsolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article/index.md",
+      "fields": {
+        "slug": "/new-article/"
+      }
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "layout": "index",
+      "jsonName": "offline-plugin-app-shell-fallback.json",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
+      "pluginCreatorId": "Plugin gatsby-plugin-offline",
+      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "24f3c52258337c88597b930e479d180f",
+        "description": "Plugin gatsby-plugin-offline",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /heart-health/": {
+      "layout": "index",
+      "jsonName": "heart-health.json",
+      "internalComponentName": "ComponentHeartHealth",
+      "path": "/heart-health/",
+      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/heart-health/",
+        "previous": {
+          "fields": {
+            "slug": "/new-article/"
+          },
+          "frontmatter": {
+            "title": "New Article"
+          }
+        },
+        "next": null
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/templates/blog-post.js",
+      "id": "SitePage /heart-health/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d40c79d27a89622bbb3eb97be3718561",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /new-article/": {
+      "layout": "index",
+      "jsonName": "new-article.json",
+      "internalComponentName": "ComponentNewArticle",
+      "path": "/new-article/",
+      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/new-article/",
+        "previous": null,
+        "next": {
+          "fields": {
+            "slug": "/heart-health/"
+          },
+          "frontmatter": {
+            "title": "Heart Health"
+          }
+        }
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/templates/blog-post.js",
+      "id": "SitePage /new-article/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "70e7b28e1b51d64b44fe9e25c803218d",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "15c471001307afe65d8822afa9a7fe66",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "211cb192ab652036117648108395161a",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6cfeb4c40a8436b18fd819fb9256c7e2",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "cc3067ebae5782c5c2100d1f06a82cb7"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/heart-health/",
+        "/new-article/",
+        "/"
+      ],
+      "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark": [
+        "/heart-health/"
+      ],
+      "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/new-article/index.md absPath of file >>> MarkdownRemark": [
+        "/new-article/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/"
+      ]
+    }
+  }
+}

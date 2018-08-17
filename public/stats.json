@@ -21,12 +21,12 @@
       "component---src-layouts-index-js-233acfc89bc65d849e43.js.map"
     ],
     "path---new-article": [
-      "path---new-article-5e643c18965f487ff783.js",
-      "path---new-article-5e643c18965f487ff783.js.map"
+      "path---new-article-fd826893804a223fcea4.js",
+      "path---new-article-fd826893804a223fcea4.js.map"
     ],
     "path---index": [
-      "path---index-ebebb6a2bf67e87e1898.js",
-      "path---index-ebebb6a2bf67e87e1898.js.map"
+      "path---index-96b98c7f3e3c214f0b5f.js",
+      "path---index-96b98c7f3e3c214f0b5f.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -47,9 +47,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-b164984ace00f74c25ef.js",
+      "app-ccfb388e30b7d778e633.js",
       "build-js-styles.css",
-      "app-b164984ace00f74c25ef.js.map",
+      "app-ccfb388e30b7d778e633.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -57,8 +57,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---heart-health": [
-      "path---heart-health-3e4d6ee1d2bcb2f2da60.js",
-      "path---heart-health-3e4d6ee1d2bcb2f2da60.js.map"
+      "path---heart-health-eed1c2ec252e63ef1be3.js",
+      "path---heart-health-eed1c2ec252e63ef1be3.js.map"
     ]
   }
 }

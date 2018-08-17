@@ -1622,12 +1622,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-17T16:55:03.028Z",
+      "buildTime": "2018-08-17T18:39:11.848Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2b7cd92dd3fbe62acb099ee38b80c7a9",
+        "contentDigest": "9f1917357cf474c211b6e236de0a17f2",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1637,7 +1637,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "62a24ae1378f57be9b8ca37a118566bb",
+        "contentDigest": "f0e1a8a5ac555085f461b312ad696537",
         "type": "Directory",
         "description": "Directory \"src\\pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1648,10 +1648,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-08-16T19:04:47.809Z",
-      "accessTime": "2018-08-16T19:04:47.809Z",
-      "changeTime": "2018-08-16T19:04:47.809Z",
-      "birthTime": "2018-08-16T15:39:35.916Z",
+      "modifiedTime": "2018-08-17T18:36:46.110Z",
+      "accessTime": "2018-08-17T18:36:46.110Z",
+      "changeTime": "2018-08-17T18:36:47.077Z",
+      "birthTime": "2018-08-17T18:36:46.102Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src",
       "base": "pages",
@@ -1664,22 +1664,22 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 11258999069867612,
-      "atimeMs": 1534446287809.3606,
-      "mtimeMs": 1534446287809.3606,
-      "ctimeMs": 1534446287809.3606,
-      "birthtimeMs": 1534433975915.5337,
-      "atime": "2018-08-16T19:04:47.809Z",
-      "mtime": "2018-08-16T19:04:47.809Z",
-      "ctime": "2018-08-16T19:04:47.809Z",
-      "birthtime": "2018-08-16T15:39:35.916Z"
+      "ino": 13792273858826372,
+      "atimeMs": 1534531006110.2205,
+      "mtimeMs": 1534531006110.2205,
+      "ctimeMs": 1534531007077.464,
+      "birthtimeMs": 1534531006102.2434,
+      "atime": "2018-08-17T18:36:46.110Z",
+      "mtime": "2018-08-17T18:36:46.110Z",
+      "ctime": "2018-08-17T18:36:47.077Z",
+      "birthtime": "2018-08-17T18:36:46.102Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "93922400c3a7b48ee1f97744b3ecbfde",
+        "contentDigest": "a341d423d19e3f47f5248c107c4c003c",
         "type": "Directory",
         "description": "Directory \"src\\pages\\heart-health\"",
         "owner": "gatsby-source-filesystem"
@@ -1690,10 +1690,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-08-16T18:57:24.142Z",
-      "accessTime": "2018-08-16T18:57:24.142Z",
-      "changeTime": "2018-08-16T19:04:47.809Z",
-      "birthTime": "2018-08-16T15:39:35.916Z",
+      "modifiedTime": "2018-08-17T18:36:46.110Z",
+      "accessTime": "2018-08-17T18:36:46.110Z",
+      "changeTime": "2018-08-17T18:36:46.110Z",
+      "birthTime": "2018-08-17T18:36:46.110Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
       "base": "heart-health",
@@ -1706,15 +1706,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1407374884994654,
-      "atimeMs": 1534445844142.3618,
-      "mtimeMs": 1534445844142.3618,
-      "ctimeMs": 1534446287809.3606,
-      "birthtimeMs": 1534433975915.5337,
-      "atime": "2018-08-16T18:57:24.142Z",
-      "mtime": "2018-08-16T18:57:24.142Z",
-      "ctime": "2018-08-16T19:04:47.809Z",
-      "birthtime": "2018-08-16T15:39:35.916Z"
+      "ino": 7036874417807748,
+      "atimeMs": 1534531006110.2205,
+      "mtimeMs": 1534531006110.2205,
+      "ctimeMs": 1534531006110.2205,
+      "birthtimeMs": 1534531006110.2205,
+      "atime": "2018-08-17T18:36:46.110Z",
+      "mtime": "2018-08-17T18:36:46.110Z",
+      "ctime": "2018-08-17T18:36:46.110Z",
+      "birthtime": "2018-08-17T18:36:46.110Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
@@ -1889,7 +1889,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "395338441748ac4f1171fb5d947cacbf",
+        "contentDigest": "4eab2ee2782007d7d32ce473d4f5d752",
         "description": "Plugin gatsby-plugin-offline",
         "owner": "internal-data-bridge"
       }
@@ -1914,7 +1914,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "53a1a908b800c20e87ec8872edc05113",
+        "contentDigest": "929947ad07bfbdaca9c9386f5558e3ca",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1935,7 +1935,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "901bc177b958e0e4bc9fb0ad8e54c41a",
+        "contentDigest": "f840db684fc9d190b443f78d62dc5b0c",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1956,7 +1956,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "31677e935a73468de74d91120680b98b",
+        "contentDigest": "df7bad139b7bae00de12e3aa3bf69d56",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1977,7 +1977,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e38e1719dd6dbd98326feaf8509ce695",
+        "contentDigest": "98650c1b13914d03f24a88c705d2798f",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }

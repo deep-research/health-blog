@@ -1,5 +1,5 @@
-import ghpages from 'gh-pages';
-import fs from 'fs';
+var ghpages = require('gh-pages');
+var fs = require('fs');
 
-fs.writeFile('dist/CNAME', "your-custom-domain.com", function(err) {});
+fs.writeFile('dist/CNAME', "healthwritings.com", function(err) {});
 ghpages.publish('dist', function(err) {});

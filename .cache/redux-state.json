@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ebd0a3e0b93699674dbf35c3fdbdde50",
+        "contentDigest": "d42684256aabd4989979c8285231a1cc",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1633,12 +1633,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-22T21:33:48.603Z",
+      "buildTime": "2018-08-22T22:28:40.891Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "501cf52d775baba972ed57567dff0bd1",
+        "contentDigest": "d2e031045ecd2078a79b219d2306a1f9",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1648,7 +1648,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d302afac7d0aa241d51c959bd8229deb",
+        "contentDigest": "ffc81cdf0cb2e96957a29c00122028b0",
         "type": "Directory",
         "description": "Directory \"src\\pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1659,9 +1659,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T21:28:21.650Z",
-      "accessTime": "2018-08-22T21:28:21.650Z",
-      "changeTime": "2018-08-22T21:28:21.650Z",
+      "modifiedTime": "2018-08-22T22:02:03.810Z",
+      "accessTime": "2018-08-22T22:02:03.810Z",
+      "changeTime": "2018-08-22T22:02:03.810Z",
       "birthTime": "2018-08-22T21:04:45.452Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src",
@@ -1676,300 +1676,14 @@
       "gid": 0,
       "rdev": 0,
       "ino": 149744687610071650,
-      "atimeMs": 1534973301650.3806,
-      "mtimeMs": 1534973301650.3806,
-      "ctimeMs": 1534973301650.3806,
+      "atimeMs": 1534975323810.3152,
+      "mtimeMs": 1534975323810.3152,
+      "ctimeMs": 1534975323810.3152,
       "birthtimeMs": 1534971885452.3225,
-      "atime": "2018-08-22T21:28:21.650Z",
-      "mtime": "2018-08-22T21:28:21.650Z",
-      "ctime": "2018-08-22T21:28:21.650Z",
+      "atime": "2018-08-22T22:02:03.810Z",
+      "mtime": "2018-08-22T22:02:03.810Z",
+      "ctime": "2018-08-22T22:02:03.810Z",
       "birthtime": "2018-08-22T21:04:45.452Z"
-    },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer absPath of file": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "b79e47a00c6b42d3b83b9fc3afa4dd3e",
-        "type": "Directory",
-        "description": "Directory \"src\\pages\\disclaimer\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer",
-      "relativePath": "disclaimer",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T21:28:21.645Z",
-      "accessTime": "2018-08-22T21:28:21.645Z",
-      "changeTime": "2018-08-22T21:28:21.645Z",
-      "birthTime": "2018-08-22T21:28:21.644Z",
-      "root": "C:/",
-      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
-      "base": "disclaimer",
-      "ext": "",
-      "name": "disclaimer",
-      "relativeDirectory": "",
-      "dev": 1747574096,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 58265320179118330,
-      "atimeMs": 1534973301645.3936,
-      "mtimeMs": 1534973301645.3936,
-      "ctimeMs": 1534973301645.3936,
-      "birthtimeMs": 1534973301644.3965,
-      "atime": "2018-08-22T21:28:21.645Z",
-      "mtime": "2018-08-22T21:28:21.645Z",
-      "ctime": "2018-08-22T21:28:21.645Z",
-      "birthtime": "2018-08-22T21:28:21.644Z"
-    },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "37693ad6846795dfa8dfac8d37da6eb1",
-        "type": "Directory",
-        "description": "Directory \"src\\pages\\heart-health\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health",
-      "relativePath": "heart-health",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T21:28:21.654Z",
-      "accessTime": "2018-08-22T21:28:21.654Z",
-      "changeTime": "2018-08-22T21:28:21.654Z",
-      "birthTime": "2018-08-22T21:28:21.650Z",
-      "root": "C:/",
-      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
-      "base": "heart-health",
-      "ext": "",
-      "name": "heart-health",
-      "relativeDirectory": "",
-      "dev": 1747574096,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 11821949022004544,
-      "atimeMs": 1534973301654.371,
-      "mtimeMs": 1534973301654.371,
-      "ctimeMs": 1534973301654.371,
-      "birthtimeMs": 1534973301650.3806,
-      "atime": "2018-08-22T21:28:21.654Z",
-      "mtime": "2018-08-22T21:28:21.654Z",
-      "ctime": "2018-08-22T21:28:21.654Z",
-      "birthtime": "2018-08-22T21:28:21.650Z"
-    },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js absPath of file": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "8d50d9a7e3f04ddcc5ff8d43b6effe79",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "description": "File \"src\\pages\\404.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js",
-      "relativePath": "404.js",
-      "extension": "js",
-      "size": 198,
-      "prettySize": "198 B",
-      "modifiedTime": "2018-08-16T15:39:35.916Z",
-      "accessTime": "2018-08-22T21:28:21.636Z",
-      "changeTime": "2018-08-17T18:48:26.538Z",
-      "birthTime": "2018-08-22T21:04:45.459Z",
-      "root": "C:/",
-      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
-      "base": "404.js",
-      "ext": ".js",
-      "name": "404",
-      "relativeDirectory": "",
-      "dev": 1747574096,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 16888498602645764,
-      "atimeMs": 1534973301636.4182,
-      "mtimeMs": 1534433975915.5337,
-      "ctimeMs": 1534531706537.9612,
-      "birthtimeMs": 1534971885459.3032,
-      "atime": "2018-08-22T21:28:21.636Z",
-      "mtime": "2018-08-16T15:39:35.916Z",
-      "ctime": "2018-08-17T18:48:26.538Z",
-      "birthtime": "2018-08-22T21:04:45.459Z"
-    },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/index.js absPath of file": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/index.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "1394ec8c428b2b7950999000a4f6721c",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "description": "File \"src\\pages\\index.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/index.js",
-      "relativePath": "index.js",
-      "extension": "js",
-      "size": 1682,
-      "prettySize": "1.68 kB",
-      "modifiedTime": "2018-08-16T19:43:25.809Z",
-      "accessTime": "2018-08-22T21:28:21.642Z",
-      "changeTime": "2018-08-17T18:48:26.541Z",
-      "birthTime": "2018-08-22T21:04:45.467Z",
-      "root": "C:/",
-      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
-      "base": "index.js",
-      "ext": ".js",
-      "name": "index",
-      "relativeDirectory": "",
-      "dev": 1747574096,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 15199648742382374,
-      "atimeMs": 1534973301642.402,
-      "mtimeMs": 1534448605809.1477,
-      "ctimeMs": 1534531706540.9546,
-      "birthtimeMs": 1534971885467.258,
-      "atime": "2018-08-22T21:28:21.642Z",
-      "mtime": "2018-08-16T19:43:25.809Z",
-      "ctime": "2018-08-17T18:48:26.541Z",
-      "birthtime": "2018-08-22T21:04:45.467Z"
-    },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
-      "children": [
-        "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "2d9b18dbe85ba6b5f65d500eb191cee1",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"src\\pages\\disclaimer\\index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md",
-      "relativePath": "disclaimer/index.md",
-      "extension": "md",
-      "size": 1268,
-      "prettySize": "1.27 kB",
-      "modifiedTime": "2018-08-22T20:32:00.119Z",
-      "accessTime": "2018-08-22T21:28:21.645Z",
-      "changeTime": "2018-08-22T20:32:00.119Z",
-      "birthTime": "2018-08-22T21:28:21.645Z",
-      "root": "C:/",
-      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "disclaimer",
-      "dev": 1747574096,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 9570149208174838,
-      "atimeMs": 1534973301645.3936,
-      "mtimeMs": 1534969920118.5693,
-      "ctimeMs": 1534969920118.5693,
-      "birthtimeMs": 1534973301645.3936,
-      "atime": "2018-08-22T21:28:21.645Z",
-      "mtime": "2018-08-22T20:32:00.119Z",
-      "ctime": "2018-08-22T20:32:00.119Z",
-      "birthtime": "2018-08-22T21:28:21.645Z"
-    },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
-      "children": [
-        "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "6b1793d2d47d6079df4a7686f98c8283",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"src\\pages\\heart-health\\index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md",
-      "relativePath": "heart-health/index.md",
-      "extension": "md",
-      "size": 901,
-      "prettySize": "901 B",
-      "modifiedTime": "2018-08-22T21:45:50.650Z",
-      "accessTime": "2018-08-22T21:28:21.654Z",
-      "changeTime": "2018-08-22T21:45:50.650Z",
-      "birthTime": "2018-08-22T21:28:21.654Z",
-      "root": "C:/",
-      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "heart-health",
-      "dev": 1747574096,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 10133099161792086,
-      "atimeMs": 1534973301654.371,
-      "mtimeMs": 1534974350649.5176,
-      "ctimeMs": 1534974350649.5176,
-      "birthtimeMs": 1534973301654.371,
-      "atime": "2018-08-22T21:28:21.654Z",
-      "mtime": "2018-08-22T21:45:50.650Z",
-      "ctime": "2018-08-22T21:45:50.650Z",
-      "birthtime": "2018-08-22T21:28:21.654Z"
-    },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: Medical Disclaimer\ndate: \"2018-08-18T22:15:45.000Z\"\n---\n\n## HealthWritings.com does not give medical advice.\n\n* HealthWritings.com contains articles on medical topics; however, no warranty is made that any of the articles are accurate. There is absolutely no assurance that any statement contained or cited in an article touching on medical matters is true, correct, precise, or up-to-date. Even if a statement made about medicine is accurate, it may not apply to you or your symptoms.\n* The medical information provided on HealthWritings.com is, at best, of a general nature and cannot substitute for the advice of a medical professional (for instance, a qualified doctor/physician, nurse, pharmacist/chemist, and so on). HealthWritings.com is not a doctor.\n* None of the individual contributors, system operators, developers, sponsors of HealthWritings.com nor anyone else connected to HealthWritings.com can take any responsibility for the results or consequences of any attempt to use or adopt any of the information presented on this web site.\n* Nothing on HealthWritings.com or included as part of any project of Web Express, Inc., should be construed as an attempt to offer or render a medical opinion or otherwise engage in the practice of medicine.",
-        "type": "MarkdownRemark",
-        "contentDigest": "265a26e0ca81ddaa4f7f2ce55a6e8daa",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Medical Disclaimer",
-        "date": "2018-08-18T22:15:45.000Z",
-        "_PARENT": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
-        "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## HealthWritings.com does not give medical advice.\n\n* HealthWritings.com contains articles on medical topics; however, no warranty is made that any of the articles are accurate. There is absolutely no assurance that any statement contained or cited in an article touching on medical matters is true, correct, precise, or up-to-date. Even if a statement made about medicine is accurate, it may not apply to you or your symptoms.\n* The medical information provided on HealthWritings.com is, at best, of a general nature and cannot substitute for the advice of a medical professional (for instance, a qualified doctor/physician, nurse, pharmacist/chemist, and so on). HealthWritings.com is not a doctor.\n* None of the individual contributors, system operators, developers, sponsors of HealthWritings.com nor anyone else connected to HealthWritings.com can take any responsibility for the results or consequences of any attempt to use or adopt any of the information presented on this web site.\n* Nothing on HealthWritings.com or included as part of any project of Web Express, Inc., should be construed as an attempt to offer or render a medical opinion or otherwise engage in the practice of medicine.",
-      "fileAbsolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md",
-      "fields": {
-        "slug": "/disclaimer/"
-      }
     },
     "SitePage /heart-health/": {
       "layout": "index",
@@ -1998,7 +1712,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "107c1de80e5b43fd96474f2fc3c6be36",
+        "contentDigest": "473c9b1ab623504eef6953c59207f507",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2030,7 +1744,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "717b3b27b36e3678122c13a8f82cb374",
+        "contentDigest": "38d965b97dcd18c98824c162a7b321f7",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2051,7 +1765,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e927d74e01fe60f8ade11464491612a5",
+        "contentDigest": "f32a356f0f3f54ebc7a14f0ca50e570a",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2072,7 +1786,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5ad51d9042e638e9a6c90a357d1d81ff",
+        "contentDigest": "c79da396f2e8e66583fb56f18bdef8da",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2093,35 +1807,9 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "790b35084fd28b84b147b2001ea8d80e",
+        "contentDigest": "281f09f834c2cc9bdd151cbf84eec912",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
-      }
-    },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: Heart Health\ndate: \"2018-08-20T22:15:45.000Z\"\n---\n\n## Losing Weight\n\n* Limit your amount of bread you eat each day.\n* Don't eat anything after 5 PM.\n* Water retention could contribute to weight gain. Diuretics can help with this problem.\n* Look up your Body Mass Index (BMI) to find out what your optimal weight is.\n\n## Exercise\n\n* The Yellow Emperor is the mythological founder of Ancient China. He is credited with many inventions including the founding of cardiology. According to Chinese tradition, a person was considered healthy in they could walk 10 minutes at a speed of 6 kilometers per hour (or 3.73 miles per hour).\n* Your doctors can send you to a stress test to check your heart function. The test can estimate you can estimate your highest capacity speed. During the test, you move with a speed that is 90% of your capacity. The speed will change depending upon your capacity.",
-        "type": "MarkdownRemark",
-        "contentDigest": "a876ab82ae523389a29c861fde803178",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Heart Health",
-        "date": "2018-08-20T22:15:45.000Z",
-        "_PARENT": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
-        "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## Losing Weight\n\n* Limit your amount of bread you eat each day.\n* Don't eat anything after 5 PM.\n* Water retention could contribute to weight gain. Diuretics can help with this problem.\n* Look up your Body Mass Index (BMI) to find out what your optimal weight is.\n\n## Exercise\n\n* The Yellow Emperor is the mythological founder of Ancient China. He is credited with many inventions including the founding of cardiology. According to Chinese tradition, a person was considered healthy in they could walk 10 minutes at a speed of 6 kilometers per hour (or 3.73 miles per hour).\n* Your doctors can send you to a stress test to check your heart function. The test can estimate you can estimate your highest capacity speed. During the test, you move with a speed that is 90% of your capacity. The speed will change depending upon your capacity.",
-      "fileAbsolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md",
-      "fields": {
-        "slug": "/heart-health/"
       }
     }
   },
@@ -2132,9 +1820,9 @@
   "componentDataDependencies": {
     "nodes": {
       "Site": [
+        "/",
         "/heart-health/",
-        "/disclaimer/",
-        "/"
+        "/disclaimer/"
       ],
       "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark": [
         "/heart-health/"

@@ -1621,12 +1621,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-22T20:18:56.307Z",
+      "buildTime": "2018-08-22T20:20:36.919Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d1a6147911d043cc8e7c26c0c3c7d0da",
+        "contentDigest": "50bd1770b38d877797621269bd9259fa",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1636,7 +1636,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d495c00af3488788f23c052e66e49dff",
+        "contentDigest": "224f737520fc35a1d3b16d85405b13cc",
         "type": "Directory",
         "description": "Directory \"src\\pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1647,9 +1647,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T20:18:50.453Z",
-      "accessTime": "2018-08-22T20:18:50.453Z",
-      "changeTime": "2018-08-22T20:18:50.453Z",
+      "modifiedTime": "2018-08-22T20:20:31.182Z",
+      "accessTime": "2018-08-22T20:20:31.182Z",
+      "changeTime": "2018-08-22T20:20:31.182Z",
       "birthTime": "2018-08-22T20:18:50.402Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src",
@@ -1664,56 +1664,14 @@
       "gid": 0,
       "rdev": 0,
       "ino": 148618787703229020,
-      "atimeMs": 1534969130453.3372,
-      "mtimeMs": 1534969130453.3372,
-      "ctimeMs": 1534969130453.3372,
+      "atimeMs": 1534969231182.1965,
+      "mtimeMs": 1534969231182.1965,
+      "ctimeMs": 1534969231182.1965,
       "birthtimeMs": 1534969130402.1104,
-      "atime": "2018-08-22T20:18:50.453Z",
-      "mtime": "2018-08-22T20:18:50.453Z",
-      "ctime": "2018-08-22T20:18:50.453Z",
+      "atime": "2018-08-22T20:20:31.182Z",
+      "mtime": "2018-08-22T20:20:31.182Z",
+      "ctime": "2018-08-22T20:20:31.182Z",
       "birthtime": "2018-08-22T20:18:50.402Z"
-    },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "06caf46863c40c4c10a748ca12be6f87",
-        "type": "Directory",
-        "description": "Directory \"src\\pages\\heart-health\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health",
-      "relativePath": "heart-health",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T20:18:50.455Z",
-      "accessTime": "2018-08-22T20:18:50.455Z",
-      "changeTime": "2018-08-22T20:18:50.455Z",
-      "birthTime": "2018-08-22T20:18:50.453Z",
-      "root": "C:/",
-      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
-      "base": "heart-health",
-      "ext": "",
-      "name": "heart-health",
-      "relativeDirectory": "",
-      "dev": 1747574096,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 9007199255049526,
-      "atimeMs": 1534969130455.3303,
-      "mtimeMs": 1534969130455.3303,
-      "ctimeMs": 1534969130455.3303,
-      "birthtimeMs": 1534969130453.3372,
-      "atime": "2018-08-22T20:18:50.455Z",
-      "mtime": "2018-08-22T20:18:50.455Z",
-      "ctime": "2018-08-22T20:18:50.455Z",
-      "birthtime": "2018-08-22T20:18:50.453Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/index.js absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/index.js absPath of file",
@@ -1758,48 +1716,6 @@
       "ctime": "2018-08-17T18:48:26.541Z",
       "birthtime": "2018-08-20T20:43:12.055Z"
     },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer absPath of file": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "4fb9883cfda1e4e1b1ef991b12c0fef2",
-        "type": "Directory",
-        "description": "Directory \"src\\pages\\disclaimer\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer",
-      "relativePath": "disclaimer",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T20:18:50.447Z",
-      "accessTime": "2018-08-22T20:18:50.447Z",
-      "changeTime": "2018-08-22T20:18:50.447Z",
-      "birthTime": "2018-08-22T20:18:50.445Z",
-      "root": "C:/",
-      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
-      "base": "disclaimer",
-      "ext": "",
-      "name": "disclaimer",
-      "relativeDirectory": "",
-      "dev": 1747574096,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 7599824371200246,
-      "atimeMs": 1534969130447.3513,
-      "mtimeMs": 1534969130447.3513,
-      "ctimeMs": 1534969130447.3513,
-      "birthtimeMs": 1534969130445.357,
-      "atime": "2018-08-22T20:18:50.447Z",
-      "mtime": "2018-08-22T20:18:50.447Z",
-      "ctime": "2018-08-22T20:18:50.447Z",
-      "birthtime": "2018-08-22T20:18:50.445Z"
-    },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js absPath of file",
       "children": [],
@@ -1818,7 +1734,7 @@
       "size": 198,
       "prettySize": "198 B",
       "modifiedTime": "2018-08-16T15:39:35.916Z",
-      "accessTime": "2018-08-22T20:18:50.418Z",
+      "accessTime": "2018-08-22T20:20:31.146Z",
       "changeTime": "2018-08-17T18:48:26.538Z",
       "birthTime": "2018-08-22T20:18:50.418Z",
       "root": "C:/",
@@ -1833,15 +1749,99 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 14636698788960516,
-      "atimeMs": 1534969130417.7317,
+      "ino": 14918173765671172,
+      "atimeMs": 1534969231146.2932,
       "mtimeMs": 1534433975915.5337,
       "ctimeMs": 1534531706537.9612,
       "birthtimeMs": 1534969130417.7317,
-      "atime": "2018-08-22T20:18:50.418Z",
+      "atime": "2018-08-22T20:20:31.146Z",
       "mtime": "2018-08-16T15:39:35.916Z",
       "ctime": "2018-08-17T18:48:26.538Z",
       "birthtime": "2018-08-22T20:18:50.418Z"
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer absPath of file": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bed0b64aa22b584419a344dcc5313274",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\\disclaimer\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer",
+      "relativePath": "disclaimer",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-08-22T20:20:31.176Z",
+      "accessTime": "2018-08-22T20:20:31.176Z",
+      "changeTime": "2018-08-22T20:20:31.176Z",
+      "birthTime": "2018-08-22T20:20:31.174Z",
+      "root": "C:/",
+      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
+      "base": "disclaimer",
+      "ext": "",
+      "name": "disclaimer",
+      "relativeDirectory": "",
+      "dev": 1747574096,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 56576470318854390,
+      "atimeMs": 1534969231176.2126,
+      "mtimeMs": 1534969231176.2126,
+      "ctimeMs": 1534969231176.2126,
+      "birthtimeMs": 1534969231174.219,
+      "atime": "2018-08-22T20:20:31.176Z",
+      "mtime": "2018-08-22T20:20:31.176Z",
+      "ctime": "2018-08-22T20:20:31.176Z",
+      "birthtime": "2018-08-22T20:20:31.174Z"
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9f150a6ea47e499e9b9d87a7b6d04672",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\\heart-health\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health",
+      "relativePath": "heart-health",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-08-22T20:20:31.183Z",
+      "accessTime": "2018-08-22T20:20:31.183Z",
+      "changeTime": "2018-08-22T20:20:31.183Z",
+      "birthTime": "2018-08-22T20:20:31.182Z",
+      "root": "C:/",
+      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
+      "base": "heart-health",
+      "ext": "",
+      "name": "heart-health",
+      "relativeDirectory": "",
+      "dev": 1747574096,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 20266198323376410,
+      "atimeMs": 1534969231183.1946,
+      "mtimeMs": 1534969231183.1946,
+      "ctimeMs": 1534969231183.1946,
+      "birthtimeMs": 1534969231182.1965,
+      "atime": "2018-08-22T20:20:31.183Z",
+      "mtime": "2018-08-22T20:20:31.183Z",
+      "ctime": "2018-08-22T20:20:31.183Z",
+      "birthtime": "2018-08-22T20:20:31.182Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
@@ -1850,7 +1850,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9801be28d7f455bbc762dd620fb6cff1",
+        "contentDigest": "ead6bfcba07732ef0b4bce1a03d81ce9",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src\\pages\\disclaimer\\index.md\"",
@@ -1860,12 +1860,12 @@
       "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md",
       "relativePath": "disclaimer/index.md",
       "extension": "md",
-      "size": 1490,
-      "prettySize": "1.49 kB",
-      "modifiedTime": "2018-08-22T20:18:36.061Z",
-      "accessTime": "2018-08-22T20:18:50.447Z",
-      "changeTime": "2018-08-22T20:18:36.061Z",
-      "birthTime": "2018-08-22T20:18:50.447Z",
+      "size": 91,
+      "prettySize": "91 B",
+      "modifiedTime": "2018-08-22T20:20:19.965Z",
+      "accessTime": "2018-08-22T20:20:31.176Z",
+      "changeTime": "2018-08-22T20:20:19.965Z",
+      "birthTime": "2018-08-22T20:20:31.176Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer",
       "base": "index.md",
@@ -1878,15 +1878,41 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 19984723346665750,
-      "atimeMs": 1534969130447.3513,
-      "mtimeMs": 1534969116061.239,
-      "ctimeMs": 1534969116061.239,
-      "birthtimeMs": 1534969130447.3513,
-      "atime": "2018-08-22T20:18:50.447Z",
-      "mtime": "2018-08-22T20:18:36.061Z",
-      "ctime": "2018-08-22T20:18:36.061Z",
-      "birthtime": "2018-08-22T20:18:50.447Z"
+      "ino": 7881299347910902,
+      "atimeMs": 1534969231176.2126,
+      "mtimeMs": 1534969219964.7688,
+      "ctimeMs": 1534969219964.7688,
+      "birthtimeMs": 1534969231176.2126,
+      "atime": "2018-08-22T20:20:31.176Z",
+      "mtime": "2018-08-22T20:20:19.965Z",
+      "ctime": "2018-08-22T20:20:19.965Z",
+      "birthtime": "2018-08-22T20:20:31.176Z"
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Medical Disclaimer\ndate: \"2018-08-18T22:15:45.000Z\"\n---\n\n## Medical Disclaimer\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "10e66064099b255bf183b4dd6e0dd373",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Medical Disclaimer",
+        "date": "2018-08-18T22:15:45.000Z",
+        "_PARENT": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
+        "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Medical Disclaimer\n\n",
+      "fileAbsolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md",
+      "fields": {
+        "slug": "/disclaimer/"
+      }
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
@@ -1908,9 +1934,9 @@
       "size": 902,
       "prettySize": "902 B",
       "modifiedTime": "2018-08-20T20:43:01.264Z",
-      "accessTime": "2018-08-22T20:18:50.455Z",
+      "accessTime": "2018-08-22T20:20:31.183Z",
       "changeTime": "2018-08-20T20:43:01.264Z",
-      "birthTime": "2018-08-22T20:18:50.455Z",
+      "birthTime": "2018-08-22T20:20:31.183Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health",
       "base": "index.md",
@@ -1923,41 +1949,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 3940649674258253,
-      "atimeMs": 1534969130455.3303,
+      "ino": 9288674231760182,
+      "atimeMs": 1534969231183.1946,
       "mtimeMs": 1534797781263.8086,
       "ctimeMs": 1534797781263.8086,
-      "birthtimeMs": 1534969130455.3303,
-      "atime": "2018-08-22T20:18:50.455Z",
+      "birthtimeMs": 1534969231183.1946,
+      "atime": "2018-08-22T20:20:31.183Z",
       "mtime": "2018-08-20T20:43:01.264Z",
       "ctime": "2018-08-20T20:43:01.264Z",
-      "birthtime": "2018-08-22T20:18:50.455Z"
-    },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: Medical Disclaimer\ndate: \"2018-08-18T22:15:45.000Z\"\n---\n\n## DISCLAIMER REGARDING MEDICAL ADVICE\n\nThe Principal author pro­vides the Site and any ser­vices, infor­ma­tion, opinions, con­tent, ref­er­ences and links to other knowl­edge resources (col­lec­tively, “Con­tent”) for infor­ma­tional pur­poses only. The Author does not pro­vide any med­ical advice on the Site.\n\nAccess­ing, read­ing or oth­er­wise using the Site does not cre­ate a physician-patient rela­tion­ship between you and the Principal author.  Pro­vid­ing per­sonal or med­ical infor­ma­tion to the Principal author does not cre­ate a physician-patient rela­tion­ship between you and the Principal author or authors.\n\nNoth­ing con­tained in the Site is intended to estab­lish a physician-patient rela­tion­ship, to replace the ser­vices of a trained physi­cian or health care pro­fes­sional, or oth­er­wise to be a sub­sti­tute for pro­fes­sional med­ical advice, diag­no­sis, or treatment.\n\nYou hereby agree that you shall not make any med­ical or health-related deci­sion based in whole or in part on any­thing con­tained in the Site.  You should not rely on any infor­ma­tion con­tained in the Site and related mate­ri­als in mak­ing med­ical, health-related or other deci­sions.  You should con­sult a licensed physi­cian or appropriately-credentialed health care worker in your com­mu­nity in all mat­ters relat­ing to your health.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "b4bdb7f32ae19d79255f50c4733ef7ab",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Medical Disclaimer",
-        "date": "2018-08-18T22:15:45.000Z",
-        "_PARENT": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
-        "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## DISCLAIMER REGARDING MEDICAL ADVICE\n\nThe Principal author pro­vides the Site and any ser­vices, infor­ma­tion, opinions, con­tent, ref­er­ences and links to other knowl­edge resources (col­lec­tively, “Con­tent”) for infor­ma­tional pur­poses only. The Author does not pro­vide any med­ical advice on the Site.\n\nAccess­ing, read­ing or oth­er­wise using the Site does not cre­ate a physician-patient rela­tion­ship between you and the Principal author.  Pro­vid­ing per­sonal or med­ical infor­ma­tion to the Principal author does not cre­ate a physician-patient rela­tion­ship between you and the Principal author or authors.\n\nNoth­ing con­tained in the Site is intended to estab­lish a physician-patient rela­tion­ship, to replace the ser­vices of a trained physi­cian or health care pro­fes­sional, or oth­er­wise to be a sub­sti­tute for pro­fes­sional med­ical advice, diag­no­sis, or treatment.\n\nYou hereby agree that you shall not make any med­ical or health-related deci­sion based in whole or in part on any­thing con­tained in the Site.  You should not rely on any infor­ma­tion con­tained in the Site and related mate­ri­als in mak­ing med­ical, health-related or other deci­sions.  You should con­sult a licensed physi­cian or appropriately-credentialed health care worker in your com­mu­nity in all mat­ters relat­ing to your health.\n",
-      "fileAbsolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md",
-      "fields": {
-        "slug": "/disclaimer/"
-      }
+      "birthtime": "2018-08-22T20:20:31.183Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark",
@@ -2001,7 +2001,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ec52f87d6659b30bc8e2a757cc8bb2cd",
+        "contentDigest": "58ca70dda93b9b983130375f4dcbe801",
         "description": "Plugin gatsby-plugin-offline",
         "owner": "internal-data-bridge"
       }
@@ -2033,7 +2033,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "77dcb1d538461317727577cc6dc5b33f",
+        "contentDigest": "a54322af88c1b2e127cce7d0ba77acfa",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2065,7 +2065,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "036dee53098adbd7540ed0799f254186",
+        "contentDigest": "80382c641d5be37ab836be19dd2e3cbf",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2086,7 +2086,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "166cf7cea28db9cf9402f5d4f5a99812",
+        "contentDigest": "6bf76fe0fdcb3825ade16cc79c195c61",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2107,7 +2107,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2625666a2a42cbd153f90eba9bfedb89",
+        "contentDigest": "4b941b986ba3150d7b63245afe1da637",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2128,7 +2128,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b90398bda4069be28ea37bc13e47c8fe",
+        "contentDigest": "51057e8efb9b24915d2841bf5c0f451e",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }

@@ -6,7 +6,7 @@ SternGrove.overrideThemeStyles = () => ({
     boxShadow: 'none',
   },
   'a:hover,a:active': {
-    color: '#000000',
+    color: '##7f7f7f',
   },
 })
 

@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cbc6fb2cfbab4cc7ce0c7dd736cc51fe",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1629,16 +1619,14 @@
         "description": "healthwritings.com: A blog with practical ideas for improving your health!",
         "siteUrl": "http://healthwritings.com/"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-22T20:39:02.091Z",
+      "buildTime": "2018-08-22T20:59:28.669Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5ba34eaddad53aa926029f198975445d",
+        "contentDigest": "b708dc855a8ae8ff1ea802d7452aa07e",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1850,7 +1838,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "301a15879891c96cfa8624a22e5b205b",
+        "contentDigest": "74b6bc892958b3a730e205f785b407e8",
         "type": "Directory",
         "description": "Directory \"src\\pages\\disclaimer\"",
         "owner": "gatsby-source-filesystem"
@@ -1861,10 +1849,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T20:32:12.642Z",
-      "accessTime": "2018-08-22T20:32:12.642Z",
-      "changeTime": "2018-08-22T20:32:12.642Z",
-      "birthTime": "2018-08-22T20:32:12.641Z",
+      "modifiedTime": "2018-08-22T20:59:22.930Z",
+      "accessTime": "2018-08-22T20:59:22.930Z",
+      "changeTime": "2018-08-22T20:59:22.930Z",
+      "birthTime": "2018-08-22T20:59:22.914Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
       "base": "disclaimer",
@@ -1877,22 +1865,22 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 57139420272275704,
-      "atimeMs": 1534969932641.9817,
-      "mtimeMs": 1534969932641.9817,
-      "ctimeMs": 1534969932641.9817,
-      "birthtimeMs": 1534969932640.9841,
-      "atime": "2018-08-22T20:32:12.642Z",
-      "mtime": "2018-08-22T20:32:12.642Z",
-      "ctime": "2018-08-22T20:32:12.642Z",
-      "birthtime": "2018-08-22T20:32:12.641Z"
+      "ino": 57420895248986360,
+      "atimeMs": 1534971562929.977,
+      "mtimeMs": 1534971562929.977,
+      "ctimeMs": 1534971562929.977,
+      "birthtimeMs": 1534971562914.3577,
+      "atime": "2018-08-22T20:59:22.930Z",
+      "mtime": "2018-08-22T20:59:22.930Z",
+      "ctime": "2018-08-22T20:59:22.930Z",
+      "birthtime": "2018-08-22T20:59:22.914Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0c9986689507c3ee042bf7ffd35e9328",
+        "contentDigest": "33035a3c4b874dc1e9e72bd46c89688a",
         "type": "Directory",
         "description": "Directory \"src\\pages\\heart-health\"",
         "owner": "gatsby-source-filesystem"
@@ -1903,10 +1891,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T20:32:12.649Z",
-      "accessTime": "2018-08-22T20:32:12.649Z",
-      "changeTime": "2018-08-22T20:32:12.649Z",
-      "birthTime": "2018-08-22T20:32:12.647Z",
+      "modifiedTime": "2018-08-22T20:59:22.930Z",
+      "accessTime": "2018-08-22T20:59:22.930Z",
+      "changeTime": "2018-08-22T20:59:22.930Z",
+      "birthTime": "2018-08-22T20:59:22.930Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
       "base": "heart-health",
@@ -1919,15 +1907,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 9007199254949462,
-      "atimeMs": 1534969932648.9644,
-      "mtimeMs": 1534969932648.9644,
-      "ctimeMs": 1534969932648.9644,
-      "birthtimeMs": 1534969932646.9692,
-      "atime": "2018-08-22T20:32:12.649Z",
-      "mtime": "2018-08-22T20:32:12.649Z",
-      "ctime": "2018-08-22T20:32:12.649Z",
-      "birthtime": "2018-08-22T20:32:12.647Z"
+      "ino": 9288674231660118,
+      "atimeMs": 1534971562929.977,
+      "mtimeMs": 1534971562929.977,
+      "ctimeMs": 1534971562929.977,
+      "birthtimeMs": 1534971562929.977,
+      "atime": "2018-08-22T20:59:22.930Z",
+      "mtime": "2018-08-22T20:59:22.930Z",
+      "ctime": "2018-08-22T20:59:22.930Z",
+      "birthtime": "2018-08-22T20:59:22.930Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark",
@@ -1960,7 +1948,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6b186052ea1aec7034ccbf282b1854d5",
+        "contentDigest": "3d97b837dee005270d09aa506045b4d0",
         "type": "Directory",
         "description": "Directory \"src\\pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1971,10 +1959,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T20:32:12.647Z",
-      "accessTime": "2018-08-22T20:32:12.647Z",
-      "changeTime": "2018-08-22T20:32:12.647Z",
-      "birthTime": "2018-08-22T20:27:59.914Z",
+      "modifiedTime": "2018-08-22T20:59:22.930Z",
+      "accessTime": "2018-08-22T20:59:22.930Z",
+      "changeTime": "2018-08-22T20:59:22.930Z",
+      "birthTime": "2018-08-22T20:59:22.914Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src",
       "base": "pages",
@@ -1987,15 +1975,36 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 148900262679939680,
-      "atimeMs": 1534969932646.9692,
-      "mtimeMs": 1534969932646.9692,
-      "ctimeMs": 1534969932646.9692,
-      "birthtimeMs": 1534969679913.5122,
-      "atime": "2018-08-22T20:32:12.647Z",
-      "mtime": "2018-08-22T20:32:12.647Z",
-      "ctime": "2018-08-22T20:32:12.647Z",
-      "birthtime": "2018-08-22T20:27:59.914Z"
+      "ino": 149181737656650340,
+      "atimeMs": 1534971562929.977,
+      "mtimeMs": 1534971562929.977,
+      "ctimeMs": 1534971562929.977,
+      "birthtimeMs": 1534971562914.3577,
+      "atime": "2018-08-22T20:59:22.930Z",
+      "mtime": "2018-08-22T20:59:22.930Z",
+      "ctime": "2018-08-22T20:59:22.930Z",
+      "birthtime": "2018-08-22T20:59:22.914Z"
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "layout": "index",
+      "jsonName": "offline-plugin-app-shell-fallback.json",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
+      "pluginCreatorId": "Plugin gatsby-plugin-offline",
+      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e6d9def5c4be4a07266ea89575627959",
+        "description": "Plugin gatsby-plugin-offline",
+        "owner": "internal-data-bridge"
+      }
     },
     "SitePage /heart-health/": {
       "layout": "index",
@@ -2024,7 +2033,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "90d499fa29fb7bcd0bb414abd6ee0a28",
+        "contentDigest": "7404eb370e8883eb64d3b50ebfaa4c29",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2056,7 +2065,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c5689a651e30dd6dbab63849442fd635",
+        "contentDigest": "41f85ec6cf2633963f6e24026050910a",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2077,7 +2086,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e395bd67ea341cf559a9c1f59f536244",
+        "contentDigest": "d79ab89af8eb69307254ccb4746ee369",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2098,7 +2107,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "07d3640740707760a3928d2e09748451",
+        "contentDigest": "62da1cd80961839681ffa0280c465a02",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2119,7 +2128,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6ac21b0fc3fc3d518ca3eeae64d28a47",
+        "contentDigest": "e061668c7a146bebc539940739e97485",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }

@@ -26,8 +26,8 @@ class Bio extends React.Component {
             height: rhythm(3),
           }}
         />
-        <p style={{fontSize: "1.5rem"}}>
-          <i><b>healthwritings.com</b>: A blog with practical ideas for improving your health!</i>
+        <p style={{fontSize: "1.5rem", color: "#000000"}}>
+          <i><b>HealthWritings.com</b>: A blog with practical ideas for improving your health!</i>
         </p>
       </div>
     )

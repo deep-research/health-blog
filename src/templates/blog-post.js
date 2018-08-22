@@ -15,7 +15,7 @@ class BlogPostTemplate extends React.Component {
     return (
       <div>
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
-        <h1>{post.frontmatter.title}</h1>
+        <h1 style={{color: "#000000"}}>{post.frontmatter.title}</h1>
         <p
           style={{
             ...scale(-1 / 5),

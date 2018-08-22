@@ -1,0 +1,14 @@
+---
+title: Medical Disclaimer
+date: "2018-08-18T22:15:45.000Z"
+---
+
+## DISCLAIMER REGARDING MEDICAL ADVICE
+
+The Principal author pro­vides the Site and any ser­vices, infor­ma­tion, opinions, con­tent, ref­er­ences and links to other knowl­edge resources (col­lec­tively, “Con­tent”) for infor­ma­tional pur­poses only. The Author does not pro­vide any med­ical advice on the Site.
+
+Access­ing, read­ing or oth­er­wise using the Site does not cre­ate a physician-patient rela­tion­ship between you and the Principal author.  Pro­vid­ing per­sonal or med­ical infor­ma­tion to the Principal author does not cre­ate a physician-patient rela­tion­ship between you and the Principal author or authors.
+
+Noth­ing con­tained in the Site is intended to estab­lish a physician-patient rela­tion­ship, to replace the ser­vices of a trained physi­cian or health care pro­fes­sional, or oth­er­wise to be a sub­sti­tute for pro­fes­sional med­ical advice, diag­no­sis, or treatment.
+
+You hereby agree that you shall not make any med­ical or health-related deci­sion based in whole or in part on any­thing con­tained in the Site.  You should not rely on any infor­ma­tion con­tained in the Site and related mate­ri­als in mak­ing med­ical, health-related or other deci­sions.  You should con­sult a licensed physi­cian or appropriately-credentialed health care worker in your com­mu­nity in all mat­ters relat­ing to your health.

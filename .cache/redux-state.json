@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3898e48f1c5d67242fbb84bc51c98ccc",
+        "contentDigest": "ebd0a3e0b93699674dbf35c3fdbdde50",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1633,12 +1633,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-22T21:22:54.456Z",
+      "buildTime": "2018-08-22T21:33:48.603Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "39a0bb1437fefecfce57a48e1df4af43",
+        "contentDigest": "501cf52d775baba972ed57567dff0bd1",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1648,7 +1648,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4c182580d79e74194de4efa71444c783",
+        "contentDigest": "d302afac7d0aa241d51c959bd8229deb",
         "type": "Directory",
         "description": "Directory \"src\\pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1659,9 +1659,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T21:04:45.479Z",
-      "accessTime": "2018-08-22T21:04:45.479Z",
-      "changeTime": "2018-08-22T21:04:45.479Z",
+      "modifiedTime": "2018-08-22T21:28:21.650Z",
+      "accessTime": "2018-08-22T21:28:21.650Z",
+      "changeTime": "2018-08-22T21:28:21.650Z",
       "birthTime": "2018-08-22T21:04:45.452Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src",
@@ -1676,13 +1676,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 149744687610071650,
-      "atimeMs": 1534971885479.2249,
-      "mtimeMs": 1534971885479.2249,
-      "ctimeMs": 1534971885479.2249,
+      "atimeMs": 1534973301650.3806,
+      "mtimeMs": 1534973301650.3806,
+      "ctimeMs": 1534973301650.3806,
       "birthtimeMs": 1534971885452.3225,
-      "atime": "2018-08-22T21:04:45.479Z",
-      "mtime": "2018-08-22T21:04:45.479Z",
-      "ctime": "2018-08-22T21:04:45.479Z",
+      "atime": "2018-08-22T21:28:21.650Z",
+      "mtime": "2018-08-22T21:28:21.650Z",
+      "ctime": "2018-08-22T21:28:21.650Z",
       "birthtime": "2018-08-22T21:04:45.452Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer absPath of file": {
@@ -1690,7 +1690,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3933043215eb5998a031391a1ffe38c0",
+        "contentDigest": "b79e47a00c6b42d3b83b9fc3afa4dd3e",
         "type": "Directory",
         "description": "Directory \"src\\pages\\disclaimer\"",
         "owner": "gatsby-source-filesystem"
@@ -1701,10 +1701,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T21:04:45.474Z",
-      "accessTime": "2018-08-22T21:04:45.474Z",
-      "changeTime": "2018-08-22T21:04:45.474Z",
-      "birthTime": "2018-08-22T21:04:45.472Z",
+      "modifiedTime": "2018-08-22T21:28:21.645Z",
+      "accessTime": "2018-08-22T21:28:21.645Z",
+      "changeTime": "2018-08-22T21:28:21.645Z",
+      "birthTime": "2018-08-22T21:28:21.644Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
       "base": "disclaimer",
@@ -1717,22 +1717,22 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 57983845202407670,
-      "atimeMs": 1534971885474.2383,
-      "mtimeMs": 1534971885474.2383,
-      "ctimeMs": 1534971885474.2383,
-      "birthtimeMs": 1534971885472.245,
-      "atime": "2018-08-22T21:04:45.474Z",
-      "mtime": "2018-08-22T21:04:45.474Z",
-      "ctime": "2018-08-22T21:04:45.474Z",
-      "birthtime": "2018-08-22T21:04:45.472Z"
+      "ino": 58265320179118330,
+      "atimeMs": 1534973301645.3936,
+      "mtimeMs": 1534973301645.3936,
+      "ctimeMs": 1534973301645.3936,
+      "birthtimeMs": 1534973301644.3965,
+      "atime": "2018-08-22T21:28:21.645Z",
+      "mtime": "2018-08-22T21:28:21.645Z",
+      "ctime": "2018-08-22T21:28:21.645Z",
+      "birthtime": "2018-08-22T21:28:21.644Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "18dbc421b8278a5ab891ae98f3859a23",
+        "contentDigest": "37693ad6846795dfa8dfac8d37da6eb1",
         "type": "Directory",
         "description": "Directory \"src\\pages\\heart-health\"",
         "owner": "gatsby-source-filesystem"
@@ -1743,10 +1743,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T21:04:45.481Z",
-      "accessTime": "2018-08-22T21:04:45.481Z",
-      "changeTime": "2018-08-22T21:04:45.481Z",
-      "birthTime": "2018-08-22T21:04:45.479Z",
+      "modifiedTime": "2018-08-22T21:28:21.654Z",
+      "accessTime": "2018-08-22T21:28:21.654Z",
+      "changeTime": "2018-08-22T21:28:21.654Z",
+      "birthTime": "2018-08-22T21:28:21.650Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
       "base": "heart-health",
@@ -1759,15 +1759,58 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 11540474045293888,
-      "atimeMs": 1534971885481.2207,
-      "mtimeMs": 1534971885481.2207,
-      "ctimeMs": 1534971885481.2207,
-      "birthtimeMs": 1534971885479.2249,
-      "atime": "2018-08-22T21:04:45.481Z",
-      "mtime": "2018-08-22T21:04:45.481Z",
-      "ctime": "2018-08-22T21:04:45.481Z",
-      "birthtime": "2018-08-22T21:04:45.479Z"
+      "ino": 11821949022004544,
+      "atimeMs": 1534973301654.371,
+      "mtimeMs": 1534973301654.371,
+      "ctimeMs": 1534973301654.371,
+      "birthtimeMs": 1534973301650.3806,
+      "atime": "2018-08-22T21:28:21.654Z",
+      "mtime": "2018-08-22T21:28:21.654Z",
+      "ctime": "2018-08-22T21:28:21.654Z",
+      "birthtime": "2018-08-22T21:28:21.650Z"
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js absPath of file": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d50d9a7e3f04ddcc5ff8d43b6effe79",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 198,
+      "prettySize": "198 B",
+      "modifiedTime": "2018-08-16T15:39:35.916Z",
+      "accessTime": "2018-08-22T21:28:21.636Z",
+      "changeTime": "2018-08-17T18:48:26.538Z",
+      "birthTime": "2018-08-22T21:04:45.459Z",
+      "root": "C:/",
+      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 1747574096,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 16888498602645764,
+      "atimeMs": 1534973301636.4182,
+      "mtimeMs": 1534433975915.5337,
+      "ctimeMs": 1534531706537.9612,
+      "birthtimeMs": 1534971885459.3032,
+      "atime": "2018-08-22T21:28:21.636Z",
+      "mtime": "2018-08-16T15:39:35.916Z",
+      "ctime": "2018-08-17T18:48:26.538Z",
+      "birthtime": "2018-08-22T21:04:45.459Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/index.js absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/index.js absPath of file",
@@ -1787,7 +1830,7 @@
       "size": 1682,
       "prettySize": "1.68 kB",
       "modifiedTime": "2018-08-16T19:43:25.809Z",
-      "accessTime": "2018-08-22T21:04:45.467Z",
+      "accessTime": "2018-08-22T21:28:21.642Z",
       "changeTime": "2018-08-17T18:48:26.541Z",
       "birthTime": "2018-08-22T21:04:45.467Z",
       "root": "C:/",
@@ -1802,58 +1845,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 14918173765671718,
-      "atimeMs": 1534971885467.258,
+      "ino": 15199648742382374,
+      "atimeMs": 1534973301642.402,
       "mtimeMs": 1534448605809.1477,
       "ctimeMs": 1534531706540.9546,
       "birthtimeMs": 1534971885467.258,
-      "atime": "2018-08-22T21:04:45.467Z",
+      "atime": "2018-08-22T21:28:21.642Z",
       "mtime": "2018-08-16T19:43:25.809Z",
       "ctime": "2018-08-17T18:48:26.541Z",
       "birthtime": "2018-08-22T21:04:45.467Z"
-    },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js absPath of file": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "c4b7921252507a41f5f590970e7ed3c6",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "description": "File \"src\\pages\\404.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/404.js",
-      "relativePath": "404.js",
-      "extension": "js",
-      "size": 168,
-      "prettySize": "168 B",
-      "modifiedTime": "2018-08-22T21:09:04.511Z",
-      "accessTime": "2018-08-22T21:04:45.459Z",
-      "changeTime": "2018-08-22T21:09:04.511Z",
-      "birthTime": "2018-08-22T21:04:45.459Z",
-      "root": "C:/",
-      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
-      "base": "404.js",
-      "ext": ".js",
-      "name": "404",
-      "relativeDirectory": "",
-      "dev": 1747574096,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 16325548649224452,
-      "atimeMs": 1534971885459.3032,
-      "mtimeMs": 1534972144511.0735,
-      "ctimeMs": 1534972144511.0735,
-      "birthtimeMs": 1534971885459.3032,
-      "atime": "2018-08-22T21:04:45.459Z",
-      "mtime": "2018-08-22T21:09:04.511Z",
-      "ctime": "2018-08-22T21:09:04.511Z",
-      "birthtime": "2018-08-22T21:04:45.459Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
@@ -1875,9 +1875,9 @@
       "size": 1268,
       "prettySize": "1.27 kB",
       "modifiedTime": "2018-08-22T20:32:00.119Z",
-      "accessTime": "2018-08-22T21:04:45.474Z",
+      "accessTime": "2018-08-22T21:28:21.645Z",
       "changeTime": "2018-08-22T20:32:00.119Z",
-      "birthTime": "2018-08-22T21:04:45.474Z",
+      "birthTime": "2018-08-22T21:28:21.645Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer",
       "base": "index.md",
@@ -1890,15 +1890,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 9288674231464182,
-      "atimeMs": 1534971885474.2383,
+      "ino": 9570149208174838,
+      "atimeMs": 1534973301645.3936,
       "mtimeMs": 1534969920118.5693,
       "ctimeMs": 1534969920118.5693,
-      "birthtimeMs": 1534971885474.2383,
-      "atime": "2018-08-22T21:04:45.474Z",
+      "birthtimeMs": 1534973301645.3936,
+      "atime": "2018-08-22T21:28:21.645Z",
       "mtime": "2018-08-22T20:32:00.119Z",
       "ctime": "2018-08-22T20:32:00.119Z",
-      "birthtime": "2018-08-22T21:04:45.474Z"
+      "birthtime": "2018-08-22T21:28:21.645Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
@@ -1907,7 +1907,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "378077b977187a457a046d5a737ddca1",
+        "contentDigest": "6b1793d2d47d6079df4a7686f98c8283",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src\\pages\\heart-health\\index.md\"",
@@ -1917,12 +1917,12 @@
       "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md",
       "relativePath": "heart-health/index.md",
       "extension": "md",
-      "size": 902,
-      "prettySize": "902 B",
-      "modifiedTime": "2018-08-20T20:43:01.264Z",
-      "accessTime": "2018-08-22T21:04:45.481Z",
-      "changeTime": "2018-08-20T20:43:01.264Z",
-      "birthTime": "2018-08-22T21:04:45.481Z",
+      "size": 901,
+      "prettySize": "901 B",
+      "modifiedTime": "2018-08-22T21:45:50.650Z",
+      "accessTime": "2018-08-22T21:28:21.654Z",
+      "changeTime": "2018-08-22T21:45:50.650Z",
+      "birthTime": "2018-08-22T21:28:21.654Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health",
       "base": "index.md",
@@ -1935,15 +1935,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 9851624185081430,
-      "atimeMs": 1534971885481.2207,
-      "mtimeMs": 1534797781263.8086,
-      "ctimeMs": 1534797781263.8086,
-      "birthtimeMs": 1534971885481.2207,
-      "atime": "2018-08-22T21:04:45.481Z",
-      "mtime": "2018-08-20T20:43:01.264Z",
-      "ctime": "2018-08-20T20:43:01.264Z",
-      "birthtime": "2018-08-22T21:04:45.481Z"
+      "ino": 10133099161792086,
+      "atimeMs": 1534973301654.371,
+      "mtimeMs": 1534974350649.5176,
+      "ctimeMs": 1534974350649.5176,
+      "birthtimeMs": 1534973301654.371,
+      "atime": "2018-08-22T21:28:21.654Z",
+      "mtime": "2018-08-22T21:45:50.650Z",
+      "ctime": "2018-08-22T21:45:50.650Z",
+      "birthtime": "2018-08-22T21:28:21.654Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark",
@@ -1969,32 +1969,6 @@
       "fileAbsolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md",
       "fields": {
         "slug": "/disclaimer/"
-      }
-    },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: Heart Health\ndate: \"2018-08-20T22:15:45.000Z\"\n---\n\n## Losing Weight\n\n* Limit your amount of bread you eat each day.\n* Don't eat anything after 5 PM.\n* Water retention could contribute to weight gain. Diuretics can help with this problem.\n* Look up your Body Mass Index (BMI) to find out what your optimal weight is.\n\n## Exercise\n\n* The Yellow Emperor is the mythological founder of Ancient China. He is credited with many inventions including the founding of cardiology. According to Chinese tradition, a person was considered healthy in they could walk 10 minutes at a speed of 6 kilometers per hour (or 3.73 miles per hour).\n* Your doctors can send you to a stress test to check your heart function. The test can estimate you can estimate your highest capacity speed. During the test, you move with a speed that is 90% of your capacity. The speed will change depending upon your capacity.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "b85f26e3e4dc27414a08bb9d34e11b9a",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Heart Health",
-        "date": "2018-08-20T22:15:45.000Z",
-        "_PARENT": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
-        "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## Losing Weight\n\n* Limit your amount of bread you eat each day.\n* Don't eat anything after 5 PM.\n* Water retention could contribute to weight gain. Diuretics can help with this problem.\n* Look up your Body Mass Index (BMI) to find out what your optimal weight is.\n\n## Exercise\n\n* The Yellow Emperor is the mythological founder of Ancient China. He is credited with many inventions including the founding of cardiology. According to Chinese tradition, a person was considered healthy in they could walk 10 minutes at a speed of 6 kilometers per hour (or 3.73 miles per hour).\n* Your doctors can send you to a stress test to check your heart function. The test can estimate you can estimate your highest capacity speed. During the test, you move with a speed that is 90% of your capacity. The speed will change depending upon your capacity.\n",
-      "fileAbsolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md",
-      "fields": {
-        "slug": "/heart-health/"
       }
     },
     "SitePage /heart-health/": {
@@ -2024,7 +1998,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c5d9c0af227f3b71dea54fb963fc574e",
+        "contentDigest": "107c1de80e5b43fd96474f2fc3c6be36",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2056,7 +2030,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5ebc451f7e79474284110da7b4b6dd56",
+        "contentDigest": "717b3b27b36e3678122c13a8f82cb374",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2077,7 +2051,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "04df1b74d41891bd2bac49d97be65712",
+        "contentDigest": "e927d74e01fe60f8ade11464491612a5",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2098,7 +2072,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d896b4cf51cc301ff2a8a0c2355b8290",
+        "contentDigest": "5ad51d9042e638e9a6c90a357d1d81ff",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2119,9 +2093,35 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b50e1e452df5864f951ad19b26bfb6e1",
+        "contentDigest": "790b35084fd28b84b147b2001ea8d80e",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
+      }
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Heart Health\ndate: \"2018-08-20T22:15:45.000Z\"\n---\n\n## Losing Weight\n\n* Limit your amount of bread you eat each day.\n* Don't eat anything after 5 PM.\n* Water retention could contribute to weight gain. Diuretics can help with this problem.\n* Look up your Body Mass Index (BMI) to find out what your optimal weight is.\n\n## Exercise\n\n* The Yellow Emperor is the mythological founder of Ancient China. He is credited with many inventions including the founding of cardiology. According to Chinese tradition, a person was considered healthy in they could walk 10 minutes at a speed of 6 kilometers per hour (or 3.73 miles per hour).\n* Your doctors can send you to a stress test to check your heart function. The test can estimate you can estimate your highest capacity speed. During the test, you move with a speed that is 90% of your capacity. The speed will change depending upon your capacity.",
+        "type": "MarkdownRemark",
+        "contentDigest": "a876ab82ae523389a29c861fde803178",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Heart Health",
+        "date": "2018-08-20T22:15:45.000Z",
+        "_PARENT": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
+        "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Losing Weight\n\n* Limit your amount of bread you eat each day.\n* Don't eat anything after 5 PM.\n* Water retention could contribute to weight gain. Diuretics can help with this problem.\n* Look up your Body Mass Index (BMI) to find out what your optimal weight is.\n\n## Exercise\n\n* The Yellow Emperor is the mythological founder of Ancient China. He is credited with many inventions including the founding of cardiology. According to Chinese tradition, a person was considered healthy in they could walk 10 minutes at a speed of 6 kilometers per hour (or 3.73 miles per hour).\n* Your doctors can send you to a stress test to check your heart function. The test can estimate you can estimate your highest capacity speed. During the test, you move with a speed that is 90% of your capacity. The speed will change depending upon your capacity.",
+      "fileAbsolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md",
+      "fields": {
+        "slug": "/heart-health/"
       }
     }
   },

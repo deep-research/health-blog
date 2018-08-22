@@ -13,7 +13,7 @@ class Bio extends React.Component {
       <div
         style={{
           display: 'flex',
-          marginBottom: rhythm(2.5),
+          marginBottom: rhythm(1),
         }}
       >
         <img
@@ -27,7 +27,7 @@ class Bio extends React.Component {
           }}
         />
         <p style={{fontSize: "1.5rem", color: "#000000"}}>
-          <i><b>HealthWritings.com</b>: A blog with practical ideas for improving your health!</i>
+          <a style={{textDecoration: "none", color: "#000000"}} href="/disclaimer"><i><b>HealthWritings.com</b>: A blog with practical ideas for improving your health!</i></a>
         </p>
       </div>
     )

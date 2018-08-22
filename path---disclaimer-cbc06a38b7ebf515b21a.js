@@ -1,0 +1,2 @@
+webpackJsonp([0xa6b12fc796b1],{395:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Health Writings Blog",author:""}},markdownRemark:{id:"C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark",html:"<h2>Medical Disclaimer</h2>",frontmatter:{title:"Medical Disclaimer",date:"August 18, 2018"}}},pathContext:{slug:"/disclaimer/",previous:null,next:{fields:{slug:"/heart-health/"},frontmatter:{title:"Heart Health"}}}}}});
+//# sourceMappingURL=path---disclaimer-cbc06a38b7ebf515b21a.js.map

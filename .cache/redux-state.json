@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "cbc6fb2cfbab4cc7ce0c7dd736cc51fe",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
@@ -1619,14 +1629,16 @@
         "description": "healthwritings.com: A blog with practical ideas for improving your health!",
         "siteUrl": "http://healthwritings.com/"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-22T20:28:05.827Z",
+      "buildTime": "2018-08-22T20:39:02.091Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ae9e49b739b13132779f6bf3640ddb91",
+        "contentDigest": "5ba34eaddad53aa926029f198975445d",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1717,90 +1729,6 @@
       "ctime": "2018-08-17T18:48:26.541Z",
       "birthtime": "2018-08-22T20:27:59.929Z"
     },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer absPath of file": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "046c3afd9bf26fef67bd30033d80a6b7",
-        "type": "Directory",
-        "description": "Directory \"src\\pages\\disclaimer\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer",
-      "relativePath": "disclaimer",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T20:27:59.929Z",
-      "accessTime": "2018-08-22T20:27:59.929Z",
-      "changeTime": "2018-08-22T20:27:59.929Z",
-      "birthTime": "2018-08-22T20:27:59.929Z",
-      "root": "C:/",
-      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
-      "base": "disclaimer",
-      "ext": "",
-      "name": "disclaimer",
-      "relativeDirectory": "",
-      "dev": 1747574096,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 56857945295565050,
-      "atimeMs": 1534969679928.5518,
-      "mtimeMs": 1534969679928.5518,
-      "ctimeMs": 1534969679928.5518,
-      "birthtimeMs": 1534969679928.5518,
-      "atime": "2018-08-22T20:27:59.929Z",
-      "mtime": "2018-08-22T20:27:59.929Z",
-      "ctime": "2018-08-22T20:27:59.929Z",
-      "birthtime": "2018-08-22T20:27:59.929Z"
-    },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "78efb668bc6dbb5889f2474202864a1c",
-        "type": "Directory",
-        "description": "Directory \"src\\pages\\heart-health\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health",
-      "relativePath": "heart-health",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T20:27:59.944Z",
-      "accessTime": "2018-08-22T20:27:59.944Z",
-      "changeTime": "2018-08-22T20:27:59.944Z",
-      "birthTime": "2018-08-22T20:27:59.944Z",
-      "root": "C:/",
-      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
-      "base": "heart-health",
-      "ext": "",
-      "name": "heart-health",
-      "relativeDirectory": "",
-      "dev": 1747574096,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 20547673300087064,
-      "atimeMs": 1534969679944.173,
-      "mtimeMs": 1534969679944.173,
-      "ctimeMs": 1534969679944.173,
-      "birthtimeMs": 1534969679944.173,
-      "atime": "2018-08-22T20:27:59.944Z",
-      "mtime": "2018-08-22T20:27:59.944Z",
-      "ctime": "2018-08-22T20:27:59.944Z",
-      "birthtime": "2018-08-22T20:27:59.944Z"
-    },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
       "children": [
@@ -1808,7 +1736,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b5f58c6ad4b007d45189d1df7df856ad",
+        "contentDigest": "2d9b18dbe85ba6b5f65d500eb191cee1",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src\\pages\\disclaimer\\index.md\"",
@@ -1818,12 +1746,12 @@
       "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md",
       "relativePath": "disclaimer/index.md",
       "extension": "md",
-      "size": 1289,
-      "prettySize": "1.29 kB",
-      "modifiedTime": "2018-08-22T20:27:40.367Z",
-      "accessTime": "2018-08-22T20:27:59.929Z",
-      "changeTime": "2018-08-22T20:27:40.367Z",
-      "birthTime": "2018-08-22T20:27:59.929Z",
+      "size": 1268,
+      "prettySize": "1.27 kB",
+      "modifiedTime": "2018-08-22T20:32:00.119Z",
+      "accessTime": "2018-08-22T20:32:12.642Z",
+      "changeTime": "2018-08-22T20:32:00.119Z",
+      "birthTime": "2018-08-22T20:32:12.642Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer",
       "base": "index.md",
@@ -1836,15 +1764,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 8162774324621558,
-      "atimeMs": 1534969679928.5518,
-      "mtimeMs": 1534969660366.5415,
-      "ctimeMs": 1534969660366.5415,
-      "birthtimeMs": 1534969679928.5518,
-      "atime": "2018-08-22T20:27:59.929Z",
-      "mtime": "2018-08-22T20:27:40.367Z",
-      "ctime": "2018-08-22T20:27:40.367Z",
-      "birthtime": "2018-08-22T20:27:59.929Z"
+      "ino": 8444249301332214,
+      "atimeMs": 1534969932641.9817,
+      "mtimeMs": 1534969920118.5693,
+      "ctimeMs": 1534969920118.5693,
+      "birthtimeMs": 1534969932641.9817,
+      "atime": "2018-08-22T20:32:12.642Z",
+      "mtime": "2018-08-22T20:32:00.119Z",
+      "ctime": "2018-08-22T20:32:00.119Z",
+      "birthtime": "2018-08-22T20:32:12.642Z"
     },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file",
@@ -1891,32 +1819,6 @@
       "ctime": "2018-08-20T20:43:01.264Z",
       "birthtime": "2018-08-22T20:27:59.944Z"
     },
-    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: Medical Disclaimer\ndate: \"2018-08-18T22:15:45.000Z\"\n---\n\n## Medical Disclaimer\n\n* HealthWritings.com does not give medical advice.\n* HealthWritings.com contains articles on medical topics; however, no warranty is made that any of the articles are accurate. There is absolutely no assurance that any statement contained or cited in an article touching on medical matters is true, correct, precise, or up-to-date. Even if a statement made about medicine is accurate, it may not apply to you or your symptoms.\n* The medical information provided on HealthWritings.com is, at best, of a general nature and cannot substitute for the advice of a medical professional (for instance, a qualified doctor/physician, nurse, pharmacist/chemist, and so on). HealthWritings.com is not a doctor.\n* None of the individual contributors, system operators, developers, sponsors of HealthWritings.com nor anyone else connected to HealthWritings.com can take any responsibility for the results or consequences of any attempt to use or adopt any of the information presented on this web site.\n* Nothing on HealthWritings.com or included as part of any project of Web Express, Inc., should be construed as an attempt to offer or render a medical opinion or otherwise engage in the practice of medicine.",
-        "type": "MarkdownRemark",
-        "contentDigest": "fdb99a0f1412bf01a2553ad988c38901",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Medical Disclaimer",
-        "date": "2018-08-18T22:15:45.000Z",
-        "_PARENT": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
-        "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## Medical Disclaimer\n\n* HealthWritings.com does not give medical advice.\n* HealthWritings.com contains articles on medical topics; however, no warranty is made that any of the articles are accurate. There is absolutely no assurance that any statement contained or cited in an article touching on medical matters is true, correct, precise, or up-to-date. Even if a statement made about medicine is accurate, it may not apply to you or your symptoms.\n* The medical information provided on HealthWritings.com is, at best, of a general nature and cannot substitute for the advice of a medical professional (for instance, a qualified doctor/physician, nurse, pharmacist/chemist, and so on). HealthWritings.com is not a doctor.\n* None of the individual contributors, system operators, developers, sponsors of HealthWritings.com nor anyone else connected to HealthWritings.com can take any responsibility for the results or consequences of any attempt to use or adopt any of the information presented on this web site.\n* Nothing on HealthWritings.com or included as part of any project of Web Express, Inc., should be construed as an attempt to offer or render a medical opinion or otherwise engage in the practice of medicine.",
-      "fileAbsolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md",
-      "fields": {
-        "slug": "/disclaimer/"
-      }
-    },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health/index.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -1943,12 +1845,122 @@
         "slug": "/heart-health/"
       }
     },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer absPath of file": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "301a15879891c96cfa8624a22e5b205b",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\\disclaimer\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer",
+      "relativePath": "disclaimer",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-08-22T20:32:12.642Z",
+      "accessTime": "2018-08-22T20:32:12.642Z",
+      "changeTime": "2018-08-22T20:32:12.642Z",
+      "birthTime": "2018-08-22T20:32:12.641Z",
+      "root": "C:/",
+      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
+      "base": "disclaimer",
+      "ext": "",
+      "name": "disclaimer",
+      "relativeDirectory": "",
+      "dev": 1747574096,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 57139420272275704,
+      "atimeMs": 1534969932641.9817,
+      "mtimeMs": 1534969932641.9817,
+      "ctimeMs": 1534969932641.9817,
+      "birthtimeMs": 1534969932640.9841,
+      "atime": "2018-08-22T20:32:12.642Z",
+      "mtime": "2018-08-22T20:32:12.642Z",
+      "ctime": "2018-08-22T20:32:12.642Z",
+      "birthtime": "2018-08-22T20:32:12.641Z"
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0c9986689507c3ee042bf7ffd35e9328",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\\heart-health\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/heart-health",
+      "relativePath": "heart-health",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-08-22T20:32:12.649Z",
+      "accessTime": "2018-08-22T20:32:12.649Z",
+      "changeTime": "2018-08-22T20:32:12.649Z",
+      "birthTime": "2018-08-22T20:32:12.647Z",
+      "root": "C:/",
+      "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages",
+      "base": "heart-health",
+      "ext": "",
+      "name": "heart-health",
+      "relativeDirectory": "",
+      "dev": 1747574096,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 9007199254949462,
+      "atimeMs": 1534969932648.9644,
+      "mtimeMs": 1534969932648.9644,
+      "ctimeMs": 1534969932648.9644,
+      "birthtimeMs": 1534969932646.9692,
+      "atime": "2018-08-22T20:32:12.649Z",
+      "mtime": "2018-08-22T20:32:12.649Z",
+      "ctime": "2018-08-22T20:32:12.649Z",
+      "birthtime": "2018-08-22T20:32:12.647Z"
+    },
+    "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Medical Disclaimer\ndate: \"2018-08-18T22:15:45.000Z\"\n---\n\n## HealthWritings.com does not give medical advice.\n\n* HealthWritings.com contains articles on medical topics; however, no warranty is made that any of the articles are accurate. There is absolutely no assurance that any statement contained or cited in an article touching on medical matters is true, correct, precise, or up-to-date. Even if a statement made about medicine is accurate, it may not apply to you or your symptoms.\n* The medical information provided on HealthWritings.com is, at best, of a general nature and cannot substitute for the advice of a medical professional (for instance, a qualified doctor/physician, nurse, pharmacist/chemist, and so on). HealthWritings.com is not a doctor.\n* None of the individual contributors, system operators, developers, sponsors of HealthWritings.com nor anyone else connected to HealthWritings.com can take any responsibility for the results or consequences of any attempt to use or adopt any of the information presented on this web site.\n* Nothing on HealthWritings.com or included as part of any project of Web Express, Inc., should be construed as an attempt to offer or render a medical opinion or otherwise engage in the practice of medicine.",
+        "type": "MarkdownRemark",
+        "contentDigest": "265a26e0ca81ddaa4f7f2ce55a6e8daa",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Medical Disclaimer",
+        "date": "2018-08-18T22:15:45.000Z",
+        "_PARENT": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file",
+        "parent": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## HealthWritings.com does not give medical advice.\n\n* HealthWritings.com contains articles on medical topics; however, no warranty is made that any of the articles are accurate. There is absolutely no assurance that any statement contained or cited in an article touching on medical matters is true, correct, precise, or up-to-date. Even if a statement made about medicine is accurate, it may not apply to you or your symptoms.\n* The medical information provided on HealthWritings.com is, at best, of a general nature and cannot substitute for the advice of a medical professional (for instance, a qualified doctor/physician, nurse, pharmacist/chemist, and so on). HealthWritings.com is not a doctor.\n* None of the individual contributors, system operators, developers, sponsors of HealthWritings.com nor anyone else connected to HealthWritings.com can take any responsibility for the results or consequences of any attempt to use or adopt any of the information presented on this web site.\n* Nothing on HealthWritings.com or included as part of any project of Web Express, Inc., should be construed as an attempt to offer or render a medical opinion or otherwise engage in the practice of medicine.",
+      "fileAbsolutePath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages/disclaimer/index.md",
+      "fields": {
+        "slug": "/disclaimer/"
+      }
+    },
     "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages absPath of file": {
       "id": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src/pages absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e75a04f6c46b4698fb8c2779b4208cec",
+        "contentDigest": "6b186052ea1aec7034ccbf282b1854d5",
         "type": "Directory",
         "description": "Directory \"src\\pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1959,9 +1971,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-08-22T20:27:59.944Z",
-      "accessTime": "2018-08-22T20:27:59.944Z",
-      "changeTime": "2018-08-22T20:27:59.944Z",
+      "modifiedTime": "2018-08-22T20:32:12.647Z",
+      "accessTime": "2018-08-22T20:32:12.647Z",
+      "changeTime": "2018-08-22T20:32:12.647Z",
       "birthTime": "2018-08-22T20:27:59.914Z",
       "root": "C:/",
       "dir": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/src",
@@ -1976,35 +1988,14 @@
       "gid": 0,
       "rdev": 0,
       "ino": 148900262679939680,
-      "atimeMs": 1534969679944.173,
-      "mtimeMs": 1534969679944.173,
-      "ctimeMs": 1534969679944.173,
+      "atimeMs": 1534969932646.9692,
+      "mtimeMs": 1534969932646.9692,
+      "ctimeMs": 1534969932646.9692,
       "birthtimeMs": 1534969679913.5122,
-      "atime": "2018-08-22T20:27:59.944Z",
-      "mtime": "2018-08-22T20:27:59.944Z",
-      "ctime": "2018-08-22T20:27:59.944Z",
+      "atime": "2018-08-22T20:32:12.647Z",
+      "mtime": "2018-08-22T20:32:12.647Z",
+      "ctime": "2018-08-22T20:32:12.647Z",
       "birthtime": "2018-08-22T20:27:59.914Z"
-    },
-    "SitePage /offline-plugin-app-shell-fallback/": {
-      "layout": "index",
-      "jsonName": "offline-plugin-app-shell-fallback.json",
-      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
-      "path": "/offline-plugin-app-shell-fallback/",
-      "component": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-offline/app-shell.js",
-      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
-      "pluginCreatorId": "Plugin gatsby-plugin-offline",
-      "componentPath": "C:/Users/Arkady/Documents/Bootcamp/Projects/health-blog/node_modules/gatsby-plugin-offline/app-shell.js",
-      "id": "SitePage /offline-plugin-app-shell-fallback/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "06bdc76358c2f0a2b609a6e82746ff40",
-        "description": "Plugin gatsby-plugin-offline",
-        "owner": "internal-data-bridge"
-      }
     },
     "SitePage /heart-health/": {
       "layout": "index",
@@ -2033,7 +2024,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "52be03eeb70b0f98344b374851fb1a65",
+        "contentDigest": "90d499fa29fb7bcd0bb414abd6ee0a28",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2065,7 +2056,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "724b98b93a1cbedd66fb62463c329f91",
+        "contentDigest": "c5689a651e30dd6dbab63849442fd635",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2086,7 +2077,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "abad6f72cced133643dadaf70ab6e6ec",
+        "contentDigest": "e395bd67ea341cf559a9c1f59f536244",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2107,7 +2098,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8bf9ea37479eebc90f630bce47f8acc9",
+        "contentDigest": "07d3640740707760a3928d2e09748451",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2128,7 +2119,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bac17c555c5eba62ef33d0800c7980f6",
+        "contentDigest": "6ac21b0fc3fc3d518ca3eeae64d28a47",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }

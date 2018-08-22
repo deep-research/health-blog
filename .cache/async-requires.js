@@ -11,6 +11,7 @@ exports.components = {
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\layout-index.json"),
   "heart-health.json": require("gatsby-module-loader?name=path---heart-health!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\heart-health.json"),
+  "disclaimer.json": require("gatsby-module-loader?name=path---disclaimer!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\disclaimer.json"),
   "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\dev-404-page.json"),
   "404.json": require("gatsby-module-loader?name=path---404!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\404.json"),
   "index.json": require("gatsby-module-loader?name=path---index!C:\\Users\\Arkady\\Documents\\Bootcamp\\Projects\\health-blog\\.cache\\json\\index.json"),

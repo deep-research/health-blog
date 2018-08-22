@@ -5,6 +5,9 @@ SternGrove.overrideThemeStyles = () => ({
   'a.gatsby-resp-image-link': {
     boxShadow: 'none',
   },
+  'a:hover,a:active': {
+    color: '#000000',
+  },
 })
 
 delete SternGrove.googleFonts

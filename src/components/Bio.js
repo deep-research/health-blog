@@ -1,11 +1,12 @@
 import React from 'react'
-
 // Import typefaces
 import 'typeface-montserrat'
 import 'typeface-merriweather'
-
 import logo from './logo.png'
 import { rhythm } from '../utils/typography'
+import css from './bio.css'
+
+
 
 class Bio extends React.Component {
   render() {
@@ -26,7 +27,7 @@ class Bio extends React.Component {
             height: rhythm(3),
           }}
         />
-        <p style={{fontSize: "1.5rem", color: "#000000"}}>
+        <p style={css} id="bio">
           <a style={{textDecoration: "none", color: "#000000"}} href="/disclaimer"><i><b>HealthWritings.com</b>: A blog with practical ideas for improving your health!</i></a>
         </p>
       </div>

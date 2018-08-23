@@ -1,0 +1,15 @@
+#bio {
+    color: black;
+}
+
+@media (min-width: 678px) {
+    #bio {
+        font-size: 1.5rem;       
+    }
+}
+
+@media (max-width: 677px) {
+    #bio {
+        font-size: 4vw;
+    }
+}
